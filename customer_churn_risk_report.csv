@@ -1,0 +1,1408 @@
+customerID,Actual_Churn,Churn_Probability,Predicted_Churn,Risk_Level,Retention_Action,tenure,Contract,MonthlyCharges,TotalCharges,Churn_Probability_%
+5178-LMXOP,1,0.956157611142393,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,95.1,95.1,95.62
+5150-ITWWB,0,0.9558265634244638,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,94.85,335.75,95.58
+6023-YEBUP,1,0.9501294332887303,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,100.95,329.95,95.01
+1069-XAIEM,1,0.9487725319432101,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,85.05,85.05,94.88
+9057-SIHCH,1,0.9468676704832923,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,96.6,291.9,94.69
+6861-XWTWQ,1,0.9442669691876776,1,High Risk,Priority retention call and tailored discount,7,Month-to-month,99.25,665.45,94.43
+1820-TQVEV,1,0.943429439402207,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,69.55,69.55,94.34
+3716-BDVDB,1,0.9399371418056939,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,69.1,69.1,93.99
+9804-ICWBG,1,0.9375893576587638,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,69.9,69.9,93.76
+5542-TBBWB,0,0.9375893576587638,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,69.9,69.9,93.76
+4587-VVTOX,1,0.9329217858158616,1,High Risk,Priority retention call and tailored discount,6,Month-to-month,105.3,545.2,93.29
+4078-SAYYN,1,0.9327601605482786,1,High Risk,Priority retention call and tailored discount,11,Month-to-month,100.75,1129.75,93.28
+2609-IAICY,1,0.9315969850574843,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,77.15,77.15,93.16
+1143-NMNQJ,1,0.9307528523473416,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,85.7,169.8,93.08
+8375-DKEBR,1,0.9305836288319825,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,69.6,69.6,93.06
+3722-WPXTK,1,0.9299370788340079,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,88.35,88.35,92.99
+0841-NULXI,1,0.9291889831909164,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,35.55,35.55,92.92
+5539-TMZLF,1,0.9274752525780938,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,69.75,69.75,92.75
+0655-RBDUG,1,0.9244799285333992,1,High Risk,Priority retention call and tailored discount,7,Month-to-month,98.05,713.0,92.45
+8593-WHYHV,1,0.9238388293520023,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,85.3,264.8,92.38
+4415-IJZTP,1,0.9236845824565958,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,74.5,74.5,92.37
+8380-PEFPE,1,0.9235495802754969,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,71.65,71.65,92.35
+6857-VWJDT,1,0.9214914344497465,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,95.65,95.65,92.15
+7465-ZZRVX,0,0.9192592580276217,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,70.35,70.35,91.93
+4750-ZRXIU,1,0.9181829934374417,1,High Risk,Priority retention call and tailored discount,4,Month-to-month,84.6,360.1,91.82
+0970-ETWGE,1,0.9178367787814427,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,89.55,89.55,91.78
+2865-TCHJW,1,0.9174447560297865,1,High Risk,Priority retention call and tailored discount,4,Month-to-month,89.2,346.2,91.74
+2034-GDRCN,1,0.9168637309681015,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,90.4,168.2,91.69
+3244-DCJWY,1,0.9167670021827006,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,70.25,70.25,91.68
+1640-PLFMP,0,0.9167670021827006,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,70.25,70.25,91.68
+6372-RFVNS,1,0.9165624024221295,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,78.8,78.8,91.66
+3006-XIMLN,1,0.9148089705633857,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,94.2,193.8,91.48
+2867-UIMSS,1,0.9141652788104188,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,80.5,80.5,91.42
+4234-XTNEA,0,0.9130045381206006,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,79.95,174.45,91.3
+5376-DEQCP,1,0.912808258444045,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,70.6,70.6,91.28
+8040-MNRTF,0,0.9119851232514599,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,71.1,71.1,91.2
+7273-TEFQD,1,0.9106696581225454,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,41.15,132.2,91.07
+8622-ZLFKO,0,0.9102605743102766,1,High Risk,Priority retention call and tailored discount,6,Month-to-month,90.75,512.25,91.03
+6328-ZPBGN,1,0.9090198589232658,1,High Risk,Priority retention call and tailored discount,11,Month-to-month,95.15,997.65,90.9
+3707-GNWHM,1,0.9088045293701572,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,74.25,74.25,90.88
+8258-GSTJK,1,0.9070863600529876,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,77.0,237.75,90.71
+7409-KIUTL,1,0.9033053874891914,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,71.0,71.0,90.33
+9611-CTWIH,1,0.9010402534124515,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,89.45,240.45,90.1
+6521-YYTYI,1,0.8983032049926278,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,93.3,93.3,89.83
+7180-PISOG,1,0.8978718359020814,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,74.5,74.5,89.79
+0187-QSXOE,0,0.8964278320338169,1,High Risk,Priority retention call and tailored discount,7,Month-to-month,89.0,605.45,89.64
+2856-HYAPG,1,0.8958821027592816,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,68.65,68.65,89.59
+1853-UDXBW,1,0.8958048761485867,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,70.0,70.0,89.58
+4115-NZRKS,0,0.8955143606756952,1,High Risk,Priority retention call and tailored discount,7,Month-to-month,89.15,574.35,89.55
+6910-HADCM,1,0.8946750981887651,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,76.35,76.35,89.47
+3177-LASXD,1,0.8935984279947229,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,71.35,71.35,89.36
+5196-SGOAK,1,0.8922181661634875,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,75.7,75.7,89.22
+7398-SKNQZ,0,0.8907459424461155,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,94.9,273.2,89.07
+2123-AGEEN,0,0.8905001256870203,1,High Risk,Priority retention call and tailored discount,7,Month-to-month,84.35,609.65,89.05
+2737-YNGYW,1,0.8894979424920486,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,80.55,184.1,88.95
+4713-LZDRV,1,0.8882139768248528,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,79.6,195.05,88.82
+3319-DWOEP,1,0.8879877808460942,1,High Risk,Priority retention call and tailored discount,6,Month-to-month,95.75,573.75,88.8
+9507-EXLTT,1,0.8876801474461393,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,79.35,79.35,88.77
+8443-ZRDBZ,1,0.8861415536682208,1,High Risk,Priority retention call and tailored discount,4,Month-to-month,76.05,318.9,88.61
+3519-ZKXGG,1,0.8860799203299392,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,75.85,256.6,88.61
+0679-IDSTG,1,0.884032107085704,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,69.25,69.25,88.4
+1768-ZAIFU,1,0.883350078419218,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,25.2,25.2,88.34
+7249-WBIYX,1,0.8818161496840272,1,High Risk,Priority retention call and tailored discount,10,Month-to-month,85.6,813.85,88.18
+3677-IYRBF,1,0.8809632359573734,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,30.4,78.65,88.1
+9878-TNQGW,1,0.8791863336234391,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,80.95,171.15,87.92
+2959-MJHIC,1,0.8786657046378054,1,High Risk,Priority retention call and tailored discount,4,Month-to-month,80.35,307.4,87.87
+3097-NQYSN,1,0.8776881966497144,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,86.85,156.35,87.77
+3727-RJMEO,1,0.8767001645109194,1,High Risk,Priority retention call and tailored discount,6,Month-to-month,82.85,460.25,87.67
+6856-RAURS,0,0.8759316707744343,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,74.9,136.05,87.59
+4445-ZJNMU,0,0.8751261256878444,1,High Risk,Priority retention call and tailored discount,9,Month-to-month,99.3,918.75,87.51
+2952-QAYZF,1,0.8751013958812319,1,High Risk,Priority retention call and tailored discount,5,Month-to-month,85.3,424.15,87.51
+6969-MVBAI,0,0.8747490136978919,1,High Risk,Priority retention call and tailored discount,9,Month-to-month,90.1,816.8,87.47
+5052-PNLOS,1,0.87428307284288,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,105.35,323.25,87.43
+1448-PWKYE,1,0.873528877696721,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,80.0,80.0,87.35
+9940-RHLFB,1,0.8729644170750166,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,75.3,75.3,87.3
+5698-BQJOH,1,0.8724375351834641,1,High Risk,Priority retention call and tailored discount,9,Month-to-month,94.4,857.25,87.24
+1320-HTRDR,1,0.8723336914075286,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,75.5,220.6,87.23
+4749-OJKQU,0,0.8721618462349656,1,High Risk,Priority retention call and tailored discount,4,Month-to-month,75.65,302.35,87.22
+0235-KGSLC,1,0.8713773825417076,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,85.55,85.55,87.14
+8083-YTZES,1,0.8694667819258912,1,High Risk,Priority retention call and tailored discount,4,Month-to-month,74.35,265.35,86.95
+4060-LDNLU,0,0.8689530412781266,1,High Risk,Priority retention call and tailored discount,7,Month-to-month,96.2,639.7,86.9
+9221-OTIVJ,1,0.8684994468026886,1,High Risk,Priority retention call and tailored discount,14,Month-to-month,104.85,1531.4,86.85
+1200-TUZHR,0,0.868198752452367,1,High Risk,Priority retention call and tailored discount,8,Month-to-month,85.2,695.75,86.82
+9747-DDZOS,1,0.8654492287987796,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,73.5,73.5,86.54
+6979-ZNSFF,1,0.8653631852262759,1,High Risk,Priority retention call and tailored discount,8,Month-to-month,87.05,762.1,86.54
+2077-MPJQO,0,0.8639335866301953,1,High Risk,Priority retention call and tailored discount,7,Month-to-month,75.4,533.05,86.39
+7198-GLXTC,1,0.8621228652426222,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,79.0,143.65,86.21
+8821-XNHVZ,1,0.8590982631334331,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,80.05,80.05,85.91
+2485-ITVKB,1,0.8573460942545041,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,35.1,68.75,85.73
+1062-LHZOD,1,0.8548539435698598,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,69.9,69.9,85.49
+5167-ZFFMM,1,0.8535562668944165,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,90.85,90.85,85.36
+9050-IKDZA,0,0.8528745921830725,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,81.5,162.55,85.29
+0390-DCFDQ,1,0.8525803628855471,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,70.45,70.45,85.26
+4633-MKHYU,0,0.850895881950488,1,High Risk,Priority retention call and tailored discount,9,Month-to-month,88.4,788.6,85.09
+5186-SAMNZ,1,0.8504377253464318,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,69.5,69.5,85.04
+8245-UMPYT,1,0.849739418786493,1,High Risk,Priority retention call and tailored discount,16,Month-to-month,96.4,1581.2,84.97
+4229-CZMLL,1,0.8485659597141921,1,High Risk,Priority retention call and tailored discount,6,Month-to-month,74.9,469.8,84.86
+4706-AXVKM,1,0.848216186567425,1,High Risk,Priority retention call and tailored discount,11,Month-to-month,84.8,906.85,84.82
+2495-INZWQ,1,0.8471206152595725,1,High Risk,Priority retention call and tailored discount,4,Month-to-month,44.55,174.3,84.71
+4735-ASGMA,1,0.8456558757569443,1,High Risk,Priority retention call and tailored discount,26,Month-to-month,98.35,2515.3,84.57
+4112-LUEIZ,1,0.8455043202028318,1,High Risk,Priority retention call and tailored discount,10,Month-to-month,89.5,863.1,84.55
+4706-DGAHW,0,0.8438506906689325,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,45.2,45.2,84.39
+2027-FECZV,1,0.8435467575516733,1,High Risk,Priority retention call and tailored discount,12,Month-to-month,106.7,1253.9,84.35
+1731-TVIUK,1,0.8425040146539977,1,High Risk,Priority retention call and tailored discount,4,Month-to-month,93.5,362.2,84.25
+4059-IIEBK,0,0.841870080816758,1,High Risk,Priority retention call and tailored discount,7,Month-to-month,78.55,522.95,84.19
+5159-YFPKQ,1,0.8414513364169303,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,75.8,160.75,84.15
+3841-CONLJ,0,0.8407023797717159,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,35.0,35.0,84.07
+2674-MIAHT,0,0.8392993792173605,1,High Risk,Priority retention call and tailored discount,4,Month-to-month,80.3,324.2,83.93
+6680-WKXRZ,1,0.8390334593583433,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,74.4,215.8,83.9
+7571-YXDAD,1,0.8368573627168898,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,74.9,147.15,83.69
+5357-TZHPP,1,0.8363448952398105,1,High Risk,Priority retention call and tailored discount,9,Month-to-month,84.4,732.5,83.63
+7209-JCUDS,1,0.8331532633699621,1,High Risk,Priority retention call and tailored discount,10,Month-to-month,94.9,1048.85,83.32
+5956-YHHRX,0,0.8325655821022581,1,High Risk,Priority retention call and tailored discount,21,Month-to-month,104.35,2271.85,83.26
+8699-ASUFO,1,0.832226308114534,1,High Risk,Priority retention call and tailored discount,7,Month-to-month,74.4,527.9,83.22
+6435-SRWBJ,0,0.829007917469452,1,High Risk,Priority retention call and tailored discount,5,Month-to-month,82.75,417.75,82.9
+0616-ATFGB,1,0.8288297561497733,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,25.05,25.05,82.88
+5419-CONWX,1,0.8285565975970548,1,High Risk,Priority retention call and tailored discount,4,Month-to-month,99.8,442.85,82.86
+8111-RKSPX,1,0.8284710559586556,1,High Risk,Priority retention call and tailored discount,4,Month-to-month,72.2,305.55,82.85
+2984-AFWNC,0,0.8272071225057569,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,95.4,293.15,82.72
+6892-XPFPU,1,0.8271167515303955,1,High Risk,Priority retention call and tailored discount,24,Month-to-month,104.25,2433.9,82.71
+7952-OBOYL,0,0.8264835923233607,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,89.85,244.45,82.65
+5442-BHQNG,0,0.8254280127199634,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,70.35,139.25,82.54
+0685-MLYYM,1,0.8241358079249905,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,70.75,154.85,82.41
+4813-HQMGZ,0,0.8241335053156544,1,High Risk,Priority retention call and tailored discount,8,Month-to-month,90.25,743.75,82.41
+4342-HENTK,1,0.8233233946019112,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,70.65,142.35,82.33
+8107-KNCIM,0,0.8228606695732762,1,High Risk,Priority retention call and tailored discount,14,Month-to-month,75.1,1013.35,82.29
+3318-OSATS,1,0.8224008042192053,1,High Risk,Priority retention call and tailored discount,35,Month-to-month,95.45,3474.05,82.24
+0365-BZUWY,0,0.8221834066870438,1,High Risk,Priority retention call and tailored discount,17,Month-to-month,102.55,1742.5,82.22
+6376-GAHQE,1,0.8219636913618504,1,High Risk,Priority retention call and tailored discount,4,Month-to-month,77.85,299.2,82.2
+6198-ZFIOJ,0,0.8206241473029009,1,High Risk,Priority retention call and tailored discount,5,Month-to-month,75.6,402.5,82.06
+3908-BLSYF,1,0.8183413267769392,1,High Risk,Priority retention call and tailored discount,6,Month-to-month,83.9,497.55,81.83
+4521-YEEHE,0,0.8166963118064672,1,High Risk,Priority retention call and tailored discount,18,Month-to-month,88.85,1594.75,81.67
+8873-GLDMH,0,0.8162631759029334,1,High Risk,Priority retention call and tailored discount,6,Month-to-month,73.85,401.3,81.63
+9685-WKZGT,1,0.8152454263475053,1,High Risk,Priority retention call and tailored discount,14,Month-to-month,74.95,1036.75,81.52
+3296-SILRA,1,0.8150706631766602,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,76.4,76.4,81.51
+2985-FMWYF,0,0.8143241271170989,1,High Risk,Priority retention call and tailored discount,23,Month-to-month,93.5,2341.55,81.43
+6608-QQLVK,1,0.8131139677964447,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,50.5,50.5,81.31
+7495-OOKFY,1,0.8124621444759694,1,High Risk,Priority retention call and tailored discount,8,Month-to-month,80.65,633.3,81.25
+6137-NICCO,0,0.8090158290181729,1,High Risk,Priority retention call and tailored discount,6,Month-to-month,94.05,518.75,80.9
+7005-CCBKV,1,0.8082579122490712,1,High Risk,Priority retention call and tailored discount,6,Month-to-month,84.4,556.35,80.83
+7410-YTJIK,1,0.8070843611319897,1,High Risk,Priority retention call and tailored discount,7,Month-to-month,75.45,480.75,80.71
+7130-VTEWQ,1,0.8064487047400734,1,High Risk,Priority retention call and tailored discount,8,Month-to-month,75.75,606.25,80.64
+2103-ZRXFN,0,0.8064126980078231,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,50.75,50.75,80.64
+5928-QLDHB,0,0.8059688614654344,1,High Risk,Priority retention call and tailored discount,9,Month-to-month,76.25,684.85,80.6
+4512-ZUIYL,1,0.8055547915620181,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,70.0,153.05,80.56
+6166-ILMNY,1,0.8054781329863822,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,69.75,144.55,80.55
+8676-TRMJS,1,0.8033344551376438,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,75.0,209.1,80.33
+7181-BQYBV,1,0.8028403514187704,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,102.45,102.45,80.28
+4817-VYYWS,1,0.8028375981501903,1,High Risk,Priority retention call and tailored discount,30,Month-to-month,100.2,2983.8,80.28
+5364-EVNIB,1,0.8027162781720292,1,High Risk,Priority retention call and tailored discount,13,Month-to-month,79.8,973.45,80.27
+4854-CIDCF,0,0.8019989284378426,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,73.85,196.4,80.2
+7912-SYRQT,1,0.8015161119940899,1,High Risk,Priority retention call and tailored discount,7,Month-to-month,75.1,552.95,80.15
+6212-ATMLK,0,0.8012351082867059,1,High Risk,Priority retention call and tailored discount,50,Month-to-month,95.7,4729.75,80.12
+0928-JMXNP,0,0.8008510823305344,1,High Risk,Priority retention call and tailored discount,4,Month-to-month,29.9,118.25,80.09
+2055-PDADH,1,0.8000588356806883,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,70.4,204.7,80.01
+1024-GUALD,1,0.7992027633815043,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,24.8,24.8,79.92
+8709-KRDVL,0,0.798787971090243,1,High Risk,Priority retention call and tailored discount,33,Month-to-month,100.0,3320.6,79.88
+8397-MVTAZ,1,0.7982378188206478,1,High Risk,Priority retention call and tailored discount,34,Month-to-month,100.05,3480.0,79.82
+0168-XZKBB,0,0.7981764450758877,1,High Risk,Priority retention call and tailored discount,19,Month-to-month,86.85,1564.4,79.82
+3721-CNEYS,1,0.7981320173217408,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,70.95,137.95,79.81
+3750-CKVKH,1,0.7972928398883634,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,67.75,116.65,79.73
+1666-JXLKU,0,0.7955301233245429,1,High Risk,Priority retention call and tailored discount,37,Month-to-month,100.05,3810.55,79.55
+6000-APYLU,1,0.7945534518406616,1,High Risk,Priority retention call and tailored discount,9,Month-to-month,80.8,713.1,79.46
+6956-SMUCM,1,0.7909920175864557,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,99.0,287.4,79.1
+2897-DOVND,0,0.7881431070664695,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,69.8,146.65,78.81
+3030-YDNRM,0,0.7872335692357683,1,High Risk,Priority retention call and tailored discount,8,Month-to-month,74.85,572.45,78.72
+8325-QRPZR,0,0.7867444915142332,1,High Risk,Priority retention call and tailored discount,7,Month-to-month,75.15,525.0,78.67
+9822-OAOVB,0,0.7844051054594199,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,55.45,55.45,78.44
+3063-QFSZL,1,0.7844051054594199,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,55.4,55.4,78.44
+6821-BUXUX,1,0.7842079328604622,1,High Risk,Priority retention call and tailored discount,13,Month-to-month,96.65,1244.5,78.42
+3191-CSNMG,0,0.7839848425227643,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,80.7,239.45,78.4
+3966-HRMZA,0,0.7819745254170294,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,75.05,202.9,78.2
+1766-GKNMI,0,0.7792834564516403,1,High Risk,Priority retention call and tailored discount,29,Month-to-month,84.9,2516.2,77.93
+5976-JCJRH,1,0.7791280201376065,1,High Risk,Priority retention call and tailored discount,10,Month-to-month,70.3,738.2,77.91
+3317-VLGQT,0,0.7790686869347744,1,High Risk,Priority retention call and tailored discount,14,Month-to-month,78.1,1122.4,77.91
+8739-WWKDU,1,0.7780238557706295,1,High Risk,Priority retention call and tailored discount,25,Month-to-month,89.5,2196.15,77.8
+6338-AVWCY,1,0.7779938480467511,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,40.15,130.75,77.8
+6833-JMZYP,0,0.7779326135400043,1,High Risk,Priority retention call and tailored discount,15,Month-to-month,94.0,1505.45,77.79
+9565-DJPIB,1,0.777638074386092,1,High Risk,Priority retention call and tailored discount,4,Month-to-month,89.6,365.65,77.76
+2277-VWCNI,0,0.7758224720691763,1,High Risk,Priority retention call and tailored discount,4,Month-to-month,48.75,179.85,77.58
+5091-HFAZW,0,0.7750846457209051,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,91.15,168.5,77.51
+0004-TLHLJ,1,0.7741678307046034,1,High Risk,Priority retention call and tailored discount,4,Month-to-month,73.9,280.85,77.42
+6298-QDFNH,1,0.7734013841508758,1,High Risk,Priority retention call and tailored discount,22,Month-to-month,79.35,1730.35,77.34
+4686-UXDML,0,0.7722650346516977,1,High Risk,Priority retention call and tailored discount,21,Month-to-month,99.85,1992.55,77.23
+7044-YAACC,0,0.7716724190432113,1,High Risk,Priority retention call and tailored discount,4,Month-to-month,70.2,280.35,77.17
+2845-HSJCY,1,0.7708446984156859,1,High Risk,Priority retention call and tailored discount,14,Month-to-month,87.25,1258.6,77.08
+7029-RPUAV,1,0.7706855380472318,1,High Risk,Priority retention call and tailored discount,17,Month-to-month,100.45,1622.45,77.07
+4208-UFFGW,1,0.7692554223510245,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,44.95,85.15,76.93
+9402-ORRAH,0,0.7685955403672645,1,High Risk,Priority retention call and tailored discount,15,Month-to-month,91.5,1400.3,76.86
+9840-DVNDC,1,0.7676470309527904,1,High Risk,Priority retention call and tailored discount,6,Month-to-month,80.5,463.05,76.76
+3672-YITQD,1,0.7676221239488068,1,High Risk,Priority retention call and tailored discount,36,Month-to-month,84.1,3021.6,76.76
+1746-TGTWV,0,0.7669766383322267,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,75.35,75.35,76.7
+9907-SWKKF,1,0.7667855939520907,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,25.05,25.05,76.68
+5288-AHOUP,0,0.7667083934390443,1,High Risk,Priority retention call and tailored discount,11,Month-to-month,78.5,874.2,76.67
+9279-CJEOJ,0,0.7665365564005238,1,High Risk,Priority retention call and tailored discount,21,Month-to-month,95.4,2025.1,76.65
+2025-JKFWI,1,0.7665146029289496,1,High Risk,Priority retention call and tailored discount,13,Month-to-month,99.0,1301.7,76.65
+2919-HBCJO,1,0.766381656987698,1,High Risk,Priority retention call and tailored discount,4,Month-to-month,76.65,333.6,76.64
+5712-PTIWW,1,0.765101345485154,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,79.85,152.45,76.51
+7668-XCFYV,0,0.7647685386768294,1,High Risk,Priority retention call and tailored discount,17,Month-to-month,92.55,1614.7,76.48
+8266-VBFQL,0,0.7627918064718177,1,High Risk,Priority retention call and tailored discount,4,Month-to-month,90.4,356.65,76.28
+9992-UJOEL,0,0.7624321282960332,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,50.3,92.75,76.24
+8280-MQRQN,1,0.7621846829080242,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,50.45,50.45,76.22
+3496-LFSZU,0,0.7620148736290527,1,High Risk,Priority retention call and tailored discount,4,Month-to-month,70.5,294.2,76.2
+5692-FPTAH,1,0.7616723209169804,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,45.4,45.4,76.17
+7252-NTGSS,0,0.7615044977942941,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,45.15,45.15,76.15
+2135-DQWAQ,0,0.7609170805364213,1,High Risk,Priority retention call and tailored discount,5,Month-to-month,85.3,420.45,76.09
+2761-OCIAX,1,0.7600982435631066,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,74.7,165.4,76.01
+7754-IXRMC,0,0.7587376051263758,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,45.35,45.35,75.87
+1608-GMEWB,0,0.7582743963165233,1,High Risk,Priority retention call and tailored discount,45,Month-to-month,93.9,4200.25,75.83
+6158-HDPXZ,0,0.756978459823472,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,25.35,25.35,75.7
+6047-YHPVI,1,0.7560267422157151,1,High Risk,Priority retention call and tailored discount,5,Month-to-month,69.7,316.9,75.6
+1845-ZLLIG,0,0.7543641305569558,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,50.15,50.15,75.44
+2386-LAHRK,1,0.7543556341601678,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,53.5,53.5,75.44
+9121-PHQSR,0,0.7528859665791796,1,High Risk,Priority retention call and tailored discount,16,Month-to-month,85.05,1391.15,75.29
+7587-RZNME,1,0.7525671344065696,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,43.3,123.65,75.26
+3352-ALMCK,0,0.7519203994272493,1,High Risk,Priority retention call and tailored discount,40,Month-to-month,102.65,4108.15,75.19
+5380-WJKOV,1,0.7507050780957712,1,High Risk,Priority retention call and tailored discount,34,Month-to-month,106.35,3549.25,75.07
+1867-BDVFH,1,0.7503196392581377,1,High Risk,Priority retention call and tailored discount,11,Month-to-month,74.35,834.2,75.03
+4237-RLAQD,1,0.7501065597356416,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,45.85,45.85,75.01
+0524-IAVZO,1,0.7489424788570038,1,High Risk,Priority retention call and tailored discount,30,Month-to-month,85.0,2624.25,74.89
+0506-LVNGN,1,0.7471925078212478,1,High Risk,Priority retention call and tailored discount,5,Month-to-month,75.55,349.65,74.72
+5228-EXCET,1,0.7462060085602711,1,High Risk,Priority retention call and tailored discount,13,Month-to-month,80.85,1008.7,74.62
+7861-UVUFT,1,0.7457853302083514,1,High Risk,Priority retention call and tailored discount,15,Month-to-month,84.3,1308.4,74.58
+0923-PNFUB,1,0.7442494744248853,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,83.75,247.25,74.42
+2860-RANUS,1,0.7436170325180699,1,High Risk,Priority retention call and tailored discount,20,Month-to-month,85.8,1727.5,74.36
+4546-FOKWR,0,0.7431105233835424,1,High Risk,Priority retention call and tailored discount,16,Month-to-month,74.75,1129.35,74.31
+8993-PHFWD,1,0.7421824098641064,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,25.25,58.9,74.22
+6646-VRFOL,1,0.7410602108131604,1,High Risk,Priority retention call and tailored discount,53,Month-to-month,103.85,5485.5,74.11
+0576-WNXXC,1,0.7401062132267885,1,High Risk,Priority retention call and tailored discount,27,Month-to-month,95.55,2510.2,74.01
+9227-LUNBG,1,0.7400421176861702,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,24.6,24.6,74.0
+6651-AZVTJ,1,0.7391937298148781,1,High Risk,Priority retention call and tailored discount,49,Month-to-month,99.8,4872.45,73.92
+3223-DWFIO,0,0.7390324378419756,1,High Risk,Priority retention call and tailored discount,4,Month-to-month,69.35,261.65,73.9
+0330-IVZHA,1,0.7378290355590703,1,High Risk,Priority retention call and tailored discount,5,Month-to-month,69.95,330.15,73.78
+9576-ANLXO,1,0.7377892804653594,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,69.55,222.3,73.78
+8696-JKZNU,1,0.7376276888647543,1,High Risk,Priority retention call and tailored discount,37,Month-to-month,76.25,2841.55,73.76
+4283-FUTGF,1,0.736216826370879,1,High Risk,Priority retention call and tailored discount,19,Month-to-month,79.85,1471.75,73.62
+0018-NYROU,0,0.7356736137079537,1,High Risk,Priority retention call and tailored discount,5,Month-to-month,68.95,351.5,73.57
+4631-OACRM,1,0.735622373598095,1,High Risk,Priority retention call and tailored discount,15,Month-to-month,79.4,1156.1,73.56
+3439-GVUSX,0,0.735301186625773,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,24.4,24.4,73.53
+8720-RQSBJ,0,0.7326970830905667,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,44.0,44.0,73.27
+4727-MCYZG,0,0.7312529609239202,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,55.55,55.55,73.13
+0818-OCPZO,1,0.7304304068376591,1,High Risk,Priority retention call and tailored discount,27,Month-to-month,81.45,2122.05,73.04
+9283-LZQOH,1,0.7292241178597891,1,High Risk,Priority retention call and tailored discount,13,Month-to-month,74.4,896.75,72.92
+4678-DVQEO,1,0.728656866730612,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,52.2,52.2,72.87
+0447-RXSGD,0,0.7278982653486241,1,High Risk,Priority retention call and tailored discount,24,Month-to-month,99.65,2404.85,72.79
+5600-KTXFM,0,0.727121195609998,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,69.95,143.9,72.71
+5351-QESIO,0,0.7264201402962391,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,24.2,24.2,72.64
+9692-TUSXH,1,0.7257586388143799,1,High Risk,Priority retention call and tailored discount,18,Month-to-month,96.05,1740.7,72.58
+4029-HPFVY,0,0.7252631332881964,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,70.3,220.4,72.53
+2057-ZBLPD,1,0.7232980570187222,1,High Risk,Priority retention call and tailored discount,21,Month-to-month,86.5,1808.7,72.33
+8445-DNBAE,0,0.7231367811073871,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,50.05,50.05,72.31
+7056-IMHCC,1,0.7230040323134237,1,High Risk,Priority retention call and tailored discount,53,Month-to-month,101.9,5549.4,72.3
+6661-HBGWL,1,0.7224632226214079,1,High Risk,Priority retention call and tailored discount,42,Month-to-month,104.75,4323.45,72.25
+3858-VOBET,1,0.7213687420371374,1,High Risk,Priority retention call and tailored discount,23,Month-to-month,74.95,1710.45,72.14
+4846-WHAFZ,1,0.7207823863726133,1,High Risk,Priority retention call and tailored discount,37,Month-to-month,76.5,2868.15,72.08
+0670-KDOMA,0,0.7204037764026916,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,20.25,20.25,72.04
+7534-BFESC,1,0.719951257094582,1,High Risk,Priority retention call and tailored discount,24,Month-to-month,76.1,1712.7,72.0
+8695-ARGXZ,0,0.7198345879782347,1,High Risk,Priority retention call and tailored discount,34,Month-to-month,75.55,2425.4,71.98
+8617-ENBDS,0,0.7191191687041073,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,73.6,232.5,71.91
+8819-IMISP,0,0.7189183991216859,1,High Risk,Priority retention call and tailored discount,31,Month-to-month,80.45,2429.1,71.89
+4317-VTEOA,1,0.7179501309846565,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,50.75,50.75,71.8
+9274-UARKJ,0,0.716738506950416,1,High Risk,Priority retention call and tailored discount,15,Month-to-month,83.2,1130.0,71.67
+6834-NXDCA,1,0.7161644662178637,1,High Risk,Priority retention call and tailored discount,13,Month-to-month,23.9,300.8,71.62
+5103-MHMHY,1,0.7151847974095863,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,45.95,45.95,71.52
+3891-PUQOD,1,0.7139742896233996,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,59.2,59.2,71.4
+7881-EVUAD,1,0.7138746860438449,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,42.6,72.4,71.39
+3916-NRPAP,0,0.7138249684116194,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,85.7,256.75,71.38
+1522-VVDMG,1,0.7129910101959256,1,High Risk,Priority retention call and tailored discount,7,Month-to-month,89.75,608.8,71.3
+7250-EQKIY,1,0.712539405210447,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,50.45,50.45,71.25
+3453-RTHJQ,0,0.7117661922840766,1,High Risk,Priority retention call and tailored discount,6,Month-to-month,69.1,435.0,71.18
+1469-LBJQJ,0,0.7082652759509034,1,High Risk,Priority retention call and tailored discount,66,Month-to-month,105.2,6936.85,70.83
+5650-YLIBA,0,0.7081465496947379,1,High Risk,Priority retention call and tailored discount,31,Month-to-month,81.15,2640.55,70.81
+3926-CUQZX,1,0.7065503406303917,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,45.1,45.1,70.66
+1112-CUNAO,1,0.702937880978379,1,High Risk,Priority retention call and tailored discount,15,Month-to-month,89.85,1424.95,70.29
+2482-CZGBB,1,0.7024364212148826,1,High Risk,Priority retention call and tailored discount,10,Month-to-month,70.0,740.0,70.24
+9506-UXUSK,0,0.7019201291980649,1,High Risk,Priority retention call and tailored discount,13,Month-to-month,70.15,931.75,70.19
+8660-BUETV,0,0.6970950487218127,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,44.75,148.05,69.71
+3334-CTHOL,1,0.6961318929259863,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,49.95,49.95,69.61
+5630-IXDXV,0,0.6956266051005607,1,High Risk,Priority retention call and tailored discount,47,Month-to-month,106.35,4849.1,69.56
+0376-YMCJC,1,0.6955667239792649,1,High Risk,Priority retention call and tailored discount,23,Month-to-month,90.6,1943.2,69.56
+3877-JRJIP,1,0.6954537449913053,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,59.85,59.85,69.55
+2824-MYYBN,0,0.6939862617215757,1,High Risk,Priority retention call and tailored discount,37,Month-to-month,95.25,3314.15,69.4
+9895-VFOXH,0,0.6916906926295933,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,24.4,24.4,69.17
+0491-KAPQG,0,0.6912961099394973,1,High Risk,Priority retention call and tailored discount,21,Month-to-month,73.7,1558.7,69.13
+4412-YLTKF,1,0.6912049161687012,1,High Risk,Priority retention call and tailored discount,27,Month-to-month,78.05,2135.5,69.12
+6518-LGAOV,1,0.6909459036561801,1,High Risk,Priority retention call and tailored discount,38,Month-to-month,105.0,4026.4,69.09
+6542-LWGXJ,0,0.6896292888087081,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,25.0,78.25,68.96
+0876-WDUUZ,1,0.6894618969671223,1,High Risk,Priority retention call and tailored discount,5,Month-to-month,85.4,425.9,68.95
+8058-DMYRU,0,0.689047620024677,1,High Risk,Priority retention call and tailored discount,54,Month-to-month,90.05,4931.8,68.9
+6712-OAWRH,1,0.6889383884154613,1,High Risk,Priority retention call and tailored discount,26,Month-to-month,91.25,2351.8,68.89
+1240-KNSEZ,1,0.6884487717169175,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,20.1,20.1,68.84
+1989-PRJHP,1,0.6870475901512824,1,High Risk,Priority retention call and tailored discount,27,Month-to-month,75.5,1893.95,68.7
+0258-NOKBL,0,0.6841425386795809,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,90.4,268.45,68.41
+6817-WTYHE,0,0.6837433017402296,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,44.9,111.05,68.37
+6362-QHAFM,0,0.682671146244753,1,High Risk,Priority retention call and tailored discount,42,One year,108.3,4586.15,68.27
+4873-ILOLJ,1,0.6825502511659879,1,High Risk,Priority retention call and tailored discount,24,Month-to-month,90.35,2238.5,68.26
+7072-MBHEV,0,0.68119019062811,1,High Risk,Priority retention call and tailored discount,11,Month-to-month,78.1,864.85,68.12
+8938-UMKPI,1,0.6805331117076128,1,High Risk,Priority retention call and tailored discount,47,Month-to-month,106.4,5127.95,68.05
+5331-RGMTT,0,0.6785736551301498,1,High Risk,Priority retention call and tailored discount,54,Month-to-month,99.05,5295.7,67.86
+3452-ABWRL,0,0.678160639294571,1,High Risk,Priority retention call and tailored discount,47,Month-to-month,86.05,3865.6,67.82
+9465-RWMXL,1,0.677687688376695,1,High Risk,Priority retention call and tailored discount,32,Month-to-month,78.9,2447.95,67.77
+1212-GLHMD,0,0.6775117256534893,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,86.05,244.85,67.75
+4634-JLRJT,0,0.6767024982536743,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,20.35,20.35,67.67
+8490-BXHEO,0,0.6756879709562693,1,High Risk,Priority retention call and tailored discount,18,Month-to-month,80.55,1411.65,67.57
+9572-WUKSB,0,0.6751535613980859,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,29.9,92.25,67.52
+5204-QZXPU,1,0.6735112457504746,1,High Risk,Priority retention call and tailored discount,19,Month-to-month,39.65,733.35,67.35
+5373-SFODM,1,0.672623948888009,1,High Risk,Priority retention call and tailored discount,36,Month-to-month,85.25,3132.75,67.26
+7801-KICAO,0,0.6711670292610766,1,High Risk,Priority retention call and tailored discount,18,Month-to-month,74.15,1345.75,67.12
+8621-MNIHH,1,0.6694264519686878,1,High Risk,Priority retention call and tailored discount,34,Month-to-month,94.25,3217.55,66.94
+8654-DHAOW,0,0.6675129583019707,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,54.15,101.65,66.75
+3658-KIBGF,1,0.6672187203355829,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,54.9,54.9,66.72
+6048-QBXKL,0,0.6667358747566102,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,56.55,118.25,66.67
+2369-FEVNO,0,0.6657902295406126,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,19.9,19.9,66.58
+7018-WBJNK,0,0.6649506214887444,1,High Risk,Priority retention call and tailored discount,13,Month-to-month,78.3,1033.95,66.5
+6319-IEJWJ,1,0.6627550310097213,1,High Risk,Priority retention call and tailored discount,20,Month-to-month,90.2,1776.55,66.28
+1471-GIQKQ,0,0.6606689781128422,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,49.95,49.95,66.07
+0388-EOPEX,1,0.6561714825632599,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,74.4,139.4,65.62
+0952-KMEEH,1,0.6561008941980739,1,High Risk,Priority retention call and tailored discount,13,Month-to-month,98.15,1230.25,65.61
+7663-RGWBC,1,0.655474929418678,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,44.15,44.15,65.55
+0430-IHCDJ,0,0.655357965553819,1,High Risk,Priority retention call and tailored discount,15,Month-to-month,49.0,749.25,65.54
+6022-UGGSO,1,0.6549521442530554,1,High Risk,Priority retention call and tailored discount,32,Month-to-month,74.4,2276.95,65.5
+5022-JNQEQ,0,0.6545018103039274,1,High Risk,Priority retention call and tailored discount,9,Month-to-month,75.85,647.5,65.45
+3716-UVSPD,0,0.6541229928268036,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,49.3,49.3,65.41
+9208-OLGAQ,0,0.6535848183509246,1,High Risk,Priority retention call and tailored discount,18,Month-to-month,84.95,1443.65,65.36
+2465-BLLEU,0,0.6531229585334464,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,19.75,19.75,65.31
+8378-LKJAF,0,0.6523810286689831,1,High Risk,Priority retention call and tailored discount,38,Month-to-month,101.15,3956.7,65.24
+9667-TKTVZ,0,0.651525795650332,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,54.35,117.05,65.15
+3627-FHKBK,1,0.6503074008271743,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,75.3,75.3,65.03
+8601-QACRS,1,0.6488531130576325,1,High Risk,Priority retention call and tailored discount,5,Month-to-month,50.6,249.95,64.89
+8757-TFHHJ,0,0.6487644774686907,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,49.8,49.8,64.88
+3374-LXDEV,1,0.6487369526226742,1,High Risk,Priority retention call and tailored discount,13,Month-to-month,89.4,1132.35,64.87
+0315-LVCRK,0,0.648725754175518,1,High Risk,Priority retention call and tailored discount,11,Month-to-month,84.8,888.75,64.87
+9389-ACWBI,0,0.6485743616799247,1,High Risk,Priority retention call and tailored discount,5,Month-to-month,69.95,320.4,64.86
+9167-APMXZ,0,0.6472568360003369,1,High Risk,Priority retention call and tailored discount,22,Month-to-month,84.15,1821.95,64.73
+2079-FBMZK,1,0.6458905053105662,1,High Risk,Priority retention call and tailored discount,6,Month-to-month,69.25,418.4,64.59
+3211-AAPKX,0,0.6448305508080214,1,High Risk,Priority retention call and tailored discount,20,Month-to-month,98.55,2031.95,64.48
+1635-FJFCC,0,0.6426779246817255,1,High Risk,Priority retention call and tailored discount,5,Month-to-month,44.05,202.15,64.27
+8805-JNRAZ,0,0.6421766609599976,1,High Risk,Priority retention call and tailored discount,2,Month-to-month,49.2,103.7,64.22
+7296-PIXQY,0,0.6405518747370573,1,High Risk,Priority retention call and tailored discount,14,Month-to-month,70.2,1046.5,64.06
+1236-WFCDV,1,0.6397995274173147,1,High Risk,Priority retention call and tailored discount,14,Month-to-month,90.45,1266.1,63.98
+2101-RANCD,0,0.6387380701913813,1,High Risk,Priority retention call and tailored discount,55,Month-to-month,73.1,4144.9,63.87
+7503-QQRVF,1,0.6374511260745777,1,High Risk,Priority retention call and tailored discount,16,Month-to-month,74.3,1178.25,63.75
+6233-HXJMX,0,0.6369408809691067,1,High Risk,Priority retention call and tailored discount,45,Month-to-month,89.3,4192.15,63.69
+0015-UOCOJ,0,0.6352143028803462,1,High Risk,Priority retention call and tailored discount,7,Month-to-month,48.2,340.35,63.52
+2955-BJZHG,1,0.6336217733179174,1,High Risk,Priority retention call and tailored discount,17,Month-to-month,80.85,1400.85,63.36
+4547-LYTDD,1,0.6329837675620231,1,High Risk,Priority retention call and tailored discount,16,Month-to-month,72.65,1194.3,63.3
+7878-JGDKK,0,0.6308104126224713,1,High Risk,Priority retention call and tailored discount,4,Month-to-month,44.55,220.75,63.08
+9050-QLROH,1,0.6297020928074339,1,High Risk,Priority retention call and tailored discount,18,Month-to-month,90.7,1597.25,62.97
+9851-KIELU,1,0.6289032226045339,1,High Risk,Priority retention call and tailored discount,10,Month-to-month,110.1,1043.3,62.89
+9112-WSNPU,0,0.6283685337875996,1,High Risk,Priority retention call and tailored discount,35,Month-to-month,70.55,2419.0,62.84
+8429-XIBUM,1,0.6268920811895827,1,High Risk,Priority retention call and tailored discount,22,Month-to-month,101.35,2317.1,62.69
+5339-PXDVH,0,0.6268105057824765,1,High Risk,Priority retention call and tailored discount,4,Month-to-month,90.65,367.95,62.68
+1452-KIOVK,0,0.6257498531526592,1,High Risk,Priority retention call and tailored discount,22,Month-to-month,89.1,1949.4,62.57
+0581-MDMPW,0,0.6243793778907198,1,High Risk,Priority retention call and tailored discount,24,Month-to-month,88.95,2072.75,62.44
+5207-PLSTK,0,0.6237768131090775,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,48.75,48.75,62.38
+3197-ARFOY,0,0.6208367955382221,1,High Risk,Priority retention call and tailored discount,19,Month-to-month,105.0,2007.25,62.08
+0823-HSCDJ,1,0.6208288095726492,1,High Risk,Priority retention call and tailored discount,52,Month-to-month,49.15,2550.9,62.08
+6537-QLGEX,0,0.6200308612708468,1,High Risk,Priority retention call and tailored discount,16,Month-to-month,38.9,664.4,62.0
+2573-GYRUU,0,0.6199684051412824,1,High Risk,Priority retention call and tailored discount,48,Month-to-month,91.05,4370.75,62.0
+7422-WNBTY,0,0.61991609440022,1,High Risk,Priority retention call and tailored discount,33,Month-to-month,93.35,3092.0,61.99
+7312-XSBAT,0,0.6171171447789044,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,49.75,49.75,61.71
+6317-YPKDH,1,0.6158041035667119,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,29.95,29.95,61.58
+8212-DJRCH,0,0.6152363167079479,1,High Risk,Priority retention call and tailored discount,5,Month-to-month,90.35,434.5,61.52
+5889-JTMUL,1,0.6140712547558365,1,High Risk,Priority retention call and tailored discount,50,Month-to-month,95.05,4888.7,61.41
+1894-IGFSG,1,0.6139843127436393,1,High Risk,Priority retention call and tailored discount,22,Month-to-month,89.25,1907.85,61.4
+3258-SANFR,0,0.6138060924253267,1,High Risk,Priority retention call and tailored discount,6,Month-to-month,44.7,276.5,61.38
+0886-QGENL,1,0.6124926036679076,1,High Risk,Priority retention call and tailored discount,27,Month-to-month,101.25,2754.45,61.25
+5356-CSVSQ,0,0.6123535798679345,1,High Risk,Priority retention call and tailored discount,3,Month-to-month,64.6,174.2,61.24
+0611-DFXKO,1,0.6115744874008842,1,High Risk,Priority retention call and tailored discount,20,Month-to-month,89.0,1820.45,61.16
+2309-OSFEU,1,0.611164846842873,1,High Risk,Priority retention call and tailored discount,10,Month-to-month,33.9,298.45,61.12
+4360-PNRQB,0,0.610715843965698,1,High Risk,Priority retention call and tailored discount,18,Month-to-month,75.6,1395.05,61.07
+9971-ZWPBF,0,0.610445808748885,1,High Risk,Priority retention call and tailored discount,34,Month-to-month,108.9,3625.2,61.04
+0256-LTHVJ,1,0.6093234064178336,1,High Risk,Priority retention call and tailored discount,28,Month-to-month,81.05,2227.1,60.93
+6557-BZXLQ,0,0.6088339582964973,1,High Risk,Priority retention call and tailored discount,16,Month-to-month,69.65,1043.3,60.88
+7924-GJZFI,0,0.6087525956144464,1,High Risk,Priority retention call and tailored discount,25,Month-to-month,69.3,1813.1,60.88
+9286-DOJGF,1,0.6079013618992304,1,High Risk,Priority retention call and tailored discount,38,Month-to-month,74.95,2869.85,60.79
+5899-OUVKV,0,0.6072946331438884,1,High Risk,Priority retention call and tailored discount,31,Month-to-month,94.5,2979.2,60.73
+4154-AQUGT,1,0.6028455732953103,1,High Risk,Priority retention call and tailored discount,13,Month-to-month,89.05,1169.35,60.28
+1092-GANHU,1,0.602343990894132,1,High Risk,Priority retention call and tailored discount,17,Month-to-month,76.65,1313.55,60.23
+1816-FLZDK,0,0.6001830175897704,1,High Risk,Priority retention call and tailored discount,1,Month-to-month,29.15,29.15,60.02
+5281-BUZGT,1,0.5984161020114931,1,Medium Risk,Send feedback survey and personalized offers,36,Month-to-month,90.85,3186.7,59.84
+8059-UDZFY,0,0.5979068626031382,1,Medium Risk,Send feedback survey and personalized offers,33,Month-to-month,105.35,3465.05,59.79
+3540-RZJYU,1,0.5976392166779064,1,Medium Risk,Send feedback survey and personalized offers,15,Month-to-month,86.2,1270.2,59.76
+2582-FFFZR,0,0.5939789637147537,1,Medium Risk,Send feedback survey and personalized offers,22,Month-to-month,50.6,1073.3,59.4
+8393-DLHGA,1,0.5937338434592876,1,Medium Risk,Send feedback survey and personalized offers,25,Month-to-month,95.9,2448.75,59.37
+3785-NRHYR,0,0.5934673790094069,1,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,19.65,19.65,59.35
+3930-ZGWVE,0,0.5934525710693528,1,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,19.75,19.75,59.35
+7239-HZZCX,1,0.5934525710693528,1,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,19.75,19.75,59.35
+2956-GGUCQ,1,0.5927465670530104,1,Medium Risk,Send feedback survey and personalized offers,24,Month-to-month,78.85,1772.25,59.27
+9450-TRJUU,0,0.5923058377969999,1,Medium Risk,Send feedback survey and personalized offers,35,Month-to-month,83.15,2848.45,59.23
+3923-CSIHK,1,0.5919910439436102,1,Medium Risk,Send feedback survey and personalized offers,50,Month-to-month,71.05,3444.85,59.2
+1035-IPQPU,0,0.5907559921958437,1,Medium Risk,Send feedback survey and personalized offers,63,Month-to-month,103.5,6479.4,59.08
+1391-UBDAR,0,0.5882584315886235,1,Medium Risk,Send feedback survey and personalized offers,11,Month-to-month,72.9,818.45,58.83
+4892-VLANZ,1,0.5876668730302519,1,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,19.8,19.8,58.77
+3589-PPVKW,0,0.5863762021565586,1,Medium Risk,Send feedback survey and personalized offers,9,Month-to-month,44.4,348.15,58.64
+2108-YKQTY,1,0.5854096637057461,1,Medium Risk,Send feedback survey and personalized offers,4,Month-to-month,50.7,151.3,58.54
+1902-XBTFB,1,0.5833023137141268,1,Medium Risk,Send feedback survey and personalized offers,22,Month-to-month,89.4,2001.5,58.33
+3055-MJDSB,0,0.5796860808232721,1,Medium Risk,Send feedback survey and personalized offers,9,Month-to-month,24.6,190.1,57.97
+4248-QPAVC,1,0.5794781243111778,1,Medium Risk,Send feedback survey and personalized offers,17,Month-to-month,85.35,1463.45,57.95
+5445-GLVOT,0,0.5787171396079063,1,Medium Risk,Send feedback survey and personalized offers,22,Month-to-month,49.8,1049.05,57.87
+9512-UIBFX,1,0.5785932640089227,1,Medium Risk,Send feedback survey and personalized offers,18,Month-to-month,95.15,1779.95,57.86
+9732-KPKBW,1,0.578504323331122,1,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,53.95,53.95,57.85
+1156-ZFYDO,0,0.5761479845762002,1,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,19.75,19.75,57.61
+4690-LLKUA,1,0.5756415679948476,1,Medium Risk,Send feedback survey and personalized offers,17,Month-to-month,45.05,770.6,57.56
+1066-JKSGK,1,0.5743521015691578,1,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,20.15,20.15,57.44
+3665-JATSN,0,0.5740560959968032,1,Medium Risk,Send feedback survey and personalized offers,19,Month-to-month,39.7,710.05,57.41
+0064-YIJGF,0,0.5733947262889231,1,Medium Risk,Send feedback survey and personalized offers,27,Month-to-month,75.75,1929.0,57.34
+7752-XUSCI,1,0.5723692966512394,1,Medium Risk,Send feedback survey and personalized offers,60,Month-to-month,105.9,6396.45,57.24
+0096-BXERS,0,0.57201820654566,1,Medium Risk,Send feedback survey and personalized offers,6,Month-to-month,50.35,314.55,57.2
+7579-OOPEC,1,0.5714558613214986,1,Medium Risk,Send feedback survey and personalized offers,2,Month-to-month,50.15,115.1,57.15
+5759-RCVCB,1,0.570739906453387,1,Medium Risk,Send feedback survey and personalized offers,3,Month-to-month,35.2,108.95,57.07
+4818-QIUFN,1,0.5702123039945779,1,Medium Risk,Send feedback survey and personalized offers,20,Month-to-month,79.15,1520.9,57.02
+9576-SYUHJ,0,0.5689842247927959,1,Medium Risk,Send feedback survey and personalized offers,37,Month-to-month,91.15,3369.25,56.9
+7504-UWHNB,0,0.5688299982739985,1,Medium Risk,Send feedback survey and personalized offers,25,Month-to-month,69.75,1729.35,56.88
+9753-OYLBX,0,0.5685607028493544,1,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,20.5,20.5,56.86
+6710-HSJRD,0,0.5683711879993227,1,Medium Risk,Send feedback survey and personalized offers,61,Month-to-month,114.1,7132.15,56.84
+8849-AYPTR,0,0.5679854033467004,1,Medium Risk,Send feedback survey and personalized offers,33,Month-to-month,91.25,2964.05,56.8
+2842-BCQGE,0,0.564408624566336,1,Medium Risk,Send feedback survey and personalized offers,43,Month-to-month,75.35,3161.4,56.44
+5129-JLPIS,0,0.5625874034258337,1,Medium Risk,Send feedback survey and personalized offers,25,Month-to-month,105.5,2686.05,56.26
+6968-GMKPR,0,0.5623693093512775,1,Medium Risk,Send feedback survey and personalized offers,55,Month-to-month,81.55,4509.5,56.24
+9522-BNTHX,0,0.5622670110919575,1,Medium Risk,Send feedback survey and personalized offers,34,Month-to-month,56.25,1765.95,56.23
+8128-YVJRG,1,0.5610486508730665,1,Medium Risk,Send feedback survey and personalized offers,7,Month-to-month,79.65,604.7,56.1
+3761-FLYZI,0,0.5599101877623028,1,Medium Risk,Send feedback survey and personalized offers,65,Month-to-month,108.8,7082.45,55.99
+7617-EYGLW,0,0.5595004730079192,1,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,19.45,19.45,55.95
+1493-AMTIE,1,0.5588675300578787,1,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,20.2,20.2,55.89
+8914-RBTSB,1,0.5588305211511024,1,Medium Risk,Send feedback survey and personalized offers,31,Month-to-month,93.8,3019.5,55.88
+4919-IKATY,1,0.5583865792047874,1,Medium Risk,Send feedback survey and personalized offers,5,Month-to-month,84.5,453.75,55.84
+2074-GUHPQ,0,0.5578886886076091,1,Medium Risk,Send feedback survey and personalized offers,17,Month-to-month,92.7,1556.85,55.79
+8714-EUHJO,1,0.55706830208696,1,Medium Risk,Send feedback survey and personalized offers,31,Month-to-month,91.15,2995.45,55.71
+3466-RITXD,0,0.5566098724560495,1,Medium Risk,Send feedback survey and personalized offers,26,Month-to-month,92.4,2349.8,55.66
+5813-UECBU,1,0.5558456998588066,1,Medium Risk,Send feedback survey and personalized offers,33,Month-to-month,83.85,2716.3,55.58
+0979-PHULV,1,0.555744214795912,1,Medium Risk,Send feedback survey and personalized offers,69,Month-to-month,99.45,7007.6,55.57
+8631-WUXGY,0,0.555189300471712,1,Medium Risk,Send feedback survey and personalized offers,46,Month-to-month,99.8,4391.25,55.52
+5950-AAAGJ,0,0.5541510673556199,1,Medium Risk,Send feedback survey and personalized offers,18,Month-to-month,84.3,1537.9,55.42
+6124-ACRHJ,0,0.5528718039248767,1,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,19.75,19.75,55.29
+8637-XJIVR,1,0.5522864001973966,1,Medium Risk,Send feedback survey and personalized offers,12,Month-to-month,78.95,927.35,55.23
+5222-IMUKT,0,0.5520881080029604,1,Medium Risk,Send feedback survey and personalized offers,32,Month-to-month,91.05,2871.5,55.21
+2043-WVTQJ,0,0.5493918898425753,1,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,55.7,55.7,54.94
+2105-PHWON,0,0.5488232159219837,1,Medium Risk,Send feedback survey and personalized offers,33,Month-to-month,95.0,3008.15,54.88
+4452-QIIEB,0,0.5485928106464728,1,Medium Risk,Send feedback survey and personalized offers,7,Month-to-month,43.9,278.4,54.86
+1587-FKLZB,1,0.5482254754378207,1,Medium Risk,Send feedback survey and personalized offers,66,Month-to-month,99.5,6822.15,54.82
+3211-ILJTT,1,0.5475458414581396,1,Medium Risk,Send feedback survey and personalized offers,17,Month-to-month,70.4,1214.05,54.75
+9369-XFEHK,1,0.5470950289056634,1,Medium Risk,Send feedback survey and personalized offers,33,Month-to-month,80.6,2656.5,54.71
+3237-AJGEH,1,0.54651712857563,1,Medium Risk,Send feedback survey and personalized offers,3,Month-to-month,31.0,95.05,54.65
+8807-ARQET,0,0.5460708187439038,1,Medium Risk,Send feedback survey and personalized offers,41,Month-to-month,40.35,1677.85,54.61
+3932-CMDTD,1,0.5460508652894578,1,Medium Risk,Send feedback survey and personalized offers,4,One year,105.65,443.9,54.61
+7621-VPNET,0,0.5443981226102144,1,Medium Risk,Send feedback survey and personalized offers,42,Month-to-month,85.9,3729.75,54.44
+3807-XHCJH,0,0.5442504406789027,1,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,20.0,20.0,54.43
+1809-DMJHQ,1,0.5439231783116403,1,Medium Risk,Send feedback survey and personalized offers,5,Month-to-month,46.0,221.7,54.39
+2606-RMDHZ,1,0.5425635916766633,1,Medium Risk,Send feedback survey and personalized offers,6,Month-to-month,30.5,208.7,54.26
+1849-RJYIG,0,0.5409950238689439,1,Medium Risk,Send feedback survey and personalized offers,8,Month-to-month,60.0,487.75,54.1
+1541-ETJZO,1,0.5409511968881384,1,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,62.05,62.05,54.1
+1965-DDBWU,1,0.5402883141281503,1,Medium Risk,Send feedback survey and personalized offers,16,Month-to-month,89.05,1448.6,54.03
+3094-JOJAI,0,0.5398751149421522,1,Medium Risk,Send feedback survey and personalized offers,18,Month-to-month,74.15,1387.0,53.99
+7529-ZDFXI,0,0.5398574993827182,1,Medium Risk,Send feedback survey and personalized offers,57,Month-to-month,89.85,4925.35,53.99
+3137-LUPIX,0,0.5395127198211384,1,Medium Risk,Send feedback survey and personalized offers,4,Month-to-month,64.4,253.0,53.95
+0310-MVLET,1,0.5386599950944632,1,Medium Risk,Send feedback survey and personalized offers,61,Month-to-month,99.15,6010.05,53.87
+3768-NLUBH,1,0.5376431869756426,1,Medium Risk,Send feedback survey and personalized offers,57,Month-to-month,100.6,5746.15,53.76
+7470-MCQTK,1,0.5371981985981279,1,Medium Risk,Send feedback survey and personalized offers,13,Month-to-month,48.75,633.4,53.72
+9048-JVYVF,1,0.5370216146174912,1,Medium Risk,Send feedback survey and personalized offers,3,Month-to-month,69.35,191.35,53.7
+0829-XXPLX,0,0.5365641375179073,1,Medium Risk,Send feedback survey and personalized offers,20,Month-to-month,89.4,1871.15,53.66
+5533-NHFRF,0,0.5362436204243077,1,Medium Risk,Send feedback survey and personalized offers,7,Month-to-month,44.4,265.8,53.62
+6635-CPNUN,0,0.5357861404966772,1,Medium Risk,Send feedback survey and personalized offers,28,Month-to-month,96.6,2684.35,53.58
+6769-DYBQN,1,0.5356961882954823,1,Medium Risk,Send feedback survey and personalized offers,46,Month-to-month,85.0,3969.4,53.57
+2391-SOORI,1,0.5346811498844591,1,Medium Risk,Send feedback survey and personalized offers,4,Month-to-month,49.35,219.65,53.47
+6845-RGTYS,1,0.5337344574849151,1,Medium Risk,Send feedback survey and personalized offers,47,Month-to-month,98.75,4533.7,53.37
+8393-JMVMB,0,0.5331608890146727,1,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,19.45,19.45,53.32
+3679-XASPY,0,0.5321947954847498,1,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,19.45,19.45,53.22
+2604-IJPDU,0,0.5314922246851178,1,Medium Risk,Send feedback survey and personalized offers,20,Month-to-month,96.55,1901.65,53.15
+6847-KJLTS,0,0.531344661420623,1,Medium Risk,Send feedback survey and personalized offers,58,Month-to-month,100.4,5749.8,53.13
+4998-IKFSE,0,0.5310217499802913,1,Medium Risk,Send feedback survey and personalized offers,30,Month-to-month,100.45,3096.9,53.1
+4250-ZBWLV,1,0.53035879307827,1,Medium Risk,Send feedback survey and personalized offers,68,One year,108.45,7176.55,53.04
+2070-FNEXE,1,0.5301255439905558,1,Medium Risk,Send feedback survey and personalized offers,7,Month-to-month,76.45,503.6,53.01
+5371-VYLSX,0,0.5291712045217494,1,Medium Risk,Send feedback survey and personalized offers,50,Month-to-month,83.4,4113.7,52.92
+1329-VHWNP,0,0.527664033506596,1,Medium Risk,Send feedback survey and personalized offers,7,Month-to-month,25.05,189.95,52.77
+9710-ZUSHQ,1,0.5260944141742947,1,Medium Risk,Send feedback survey and personalized offers,37,Month-to-month,106.75,4056.75,52.61
+4343-EJVQB,0,0.5257960864988809,1,Medium Risk,Send feedback survey and personalized offers,7,Month-to-month,74.35,533.6,52.58
+4329-YPDDQ,0,0.5254740788817739,1,Medium Risk,Send feedback survey and personalized offers,20,Month-to-month,108.2,2203.7,52.55
+4128-ETESU,0,0.5251545627662852,1,Medium Risk,Send feedback survey and personalized offers,47,Month-to-month,99.7,4747.2,52.52
+4465-VDKIQ,0,0.5250884665336119,1,Medium Risk,Send feedback survey and personalized offers,18,Month-to-month,77.8,1358.6,52.51
+2322-VCZHZ,0,0.5246488974562601,1,Medium Risk,Send feedback survey and personalized offers,23,Month-to-month,90.0,2024.1,52.46
+4667-OHGKG,1,0.5240151583804665,1,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,19.3,19.3,52.4
+4282-MSACW,0,0.5236578446762813,1,Medium Risk,Send feedback survey and personalized offers,68,One year,117.2,8035.95,52.37
+0778-NELLA,1,0.5226205924232721,1,Medium Risk,Send feedback survey and personalized offers,9,Month-to-month,34.7,296.1,52.26
+0277-BKSQP,0,0.5221096256846772,1,Medium Risk,Send feedback survey and personalized offers,8,Month-to-month,54.4,475.1,52.21
+5996-DAOQL,0,0.5220835318637186,1,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,20.45,20.45,52.21
+2778-OCLGR,1,0.5220650671184026,1,Medium Risk,Send feedback survey and personalized offers,24,Month-to-month,39.1,971.3,52.21
+3234-VKACU,0,0.5215728365904797,1,Medium Risk,Send feedback survey and personalized offers,2,Month-to-month,70.3,132.4,52.16
+4191-XOVOM,0,0.5204709573142973,1,Medium Risk,Send feedback survey and personalized offers,63,Month-to-month,105.4,6713.2,52.05
+8272-ONJLV,0,0.5202818814332852,1,Medium Risk,Send feedback survey and personalized offers,12,One year,95.7,1184.0,52.03
+6741-EGCBI,0,0.5191544649174422,1,Medium Risk,Send feedback survey and personalized offers,30,Month-to-month,90.5,2595.85,51.92
+5301-GAUUY,1,0.5180447313234883,1,Medium Risk,Send feedback survey and personalized offers,32,Month-to-month,80.35,2596.15,51.8
+3594-KADLU,0,0.5176019252554495,1,Medium Risk,Send feedback survey and personalized offers,3,Month-to-month,35.1,101.1,51.76
+4660-IRIBM,0,0.5145202981879122,1,Medium Risk,Send feedback survey and personalized offers,18,Month-to-month,87.9,1500.5,51.45
+5828-AVIPD,1,0.5139457119069334,1,Medium Risk,Send feedback survey and personalized offers,19,One year,100.95,1875.55,51.39
+6259-WJQLC,0,0.5139384220027009,1,Medium Risk,Send feedback survey and personalized offers,32,Month-to-month,81.1,2619.25,51.39
+2866-IKBTM,0,0.5135585347386347,1,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,19.55,19.55,51.36
+7279-BUYWN,1,0.5126957920642913,1,Medium Risk,Send feedback survey and personalized offers,41,Month-to-month,113.2,4689.5,51.27
+1963-VAUKV,1,0.5118295159123432,1,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,20.4,20.4,51.18
+8455-HIRAQ,0,0.5107257463871361,1,Medium Risk,Send feedback survey and personalized offers,8,Month-to-month,44.45,369.3,51.07
+8887-IPQNC,0,0.5095230415752009,1,Medium Risk,Send feedback survey and personalized offers,7,Month-to-month,44.25,313.45,50.95
+4829-AUOAX,1,0.5083678379203813,1,Medium Risk,Send feedback survey and personalized offers,46,Month-to-month,96.05,4399.5,50.84
+3780-YVMFA,0,0.5077347693221845,1,Medium Risk,Send feedback survey and personalized offers,8,Month-to-month,68.55,564.35,50.77
+1763-WQFUK,0,0.5057320582754808,1,Medium Risk,Send feedback survey and personalized offers,3,Month-to-month,50.5,147.75,50.57
+7159-FVYPK,0,0.5052933392525355,1,Medium Risk,Send feedback survey and personalized offers,3,Month-to-month,69.15,235.0,50.53
+2812-SFXMJ,0,0.5052399713414153,1,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,20.05,20.05,50.52
+6770-XUAGN,1,0.5047559680713765,1,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,21.0,21.0,50.48
+1355-KUSBG,0,0.5041308775675606,1,Medium Risk,Send feedback survey and personalized offers,7,Month-to-month,48.8,349.8,50.41
+7623-TRNQN,1,0.5031322911763677,1,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,49.9,49.9,50.31
+1656-DRSMG,0,0.5029036472581727,1,Medium Risk,Send feedback survey and personalized offers,63,Month-to-month,109.85,7002.95,50.29
+2750-BJLSB,0,0.5024912319113651,1,Medium Risk,Send feedback survey and personalized offers,47,One year,103.7,4730.6,50.25
+1230-QAJDW,0,0.5011319651294351,1,Medium Risk,Send feedback survey and personalized offers,3,Month-to-month,65.25,209.9,50.11
+6284-AHOOQ,1,0.5003010476620333,1,Medium Risk,Send feedback survey and personalized offers,22,Month-to-month,90.5,1910.6,50.03
+8751-EDEKA,0,0.5002415050781862,1,Medium Risk,Send feedback survey and personalized offers,28,Month-to-month,89.9,2433.5,50.02
+7594-LZNWR,0,0.5002052820147795,1,Medium Risk,Send feedback survey and personalized offers,34,Month-to-month,69.15,2275.1,50.02
+4026-SKKHW,0,0.49959868462708634,0,Medium Risk,Send feedback survey and personalized offers,3,Month-to-month,50.25,152.3,49.96
+2203-GHNWN,0,0.49937314812566397,0,Medium Risk,Send feedback survey and personalized offers,24,Month-to-month,79.65,1928.7,49.94
+6896-SRVYQ,0,0.49846451003758024,0,Medium Risk,Send feedback survey and personalized offers,44,Month-to-month,73.85,3122.4,49.85
+4851-BQDNX,0,0.4981321292017708,0,Medium Risk,Send feedback survey and personalized offers,40,One year,85.05,3355.65,49.81
+4323-SADQS,1,0.49771576222896335,0,Medium Risk,Send feedback survey and personalized offers,7,Month-to-month,34.5,279.25,49.77
+7075-BNDVQ,0,0.49662984219758854,0,Medium Risk,Send feedback survey and personalized offers,4,Month-to-month,35.0,135.75,49.66
+6227-HWPWX,1,0.4954695217813353,0,Medium Risk,Send feedback survey and personalized offers,15,Month-to-month,69.0,994.8,49.55
+0668-OGMHD,0,0.49529830189569807,0,Medium Risk,Send feedback survey and personalized offers,21,Month-to-month,28.5,629.35,49.53
+6652-YFFJO,0,0.49480303990241403,0,Medium Risk,Send feedback survey and personalized offers,11,Month-to-month,64.9,716.1,49.48
+1685-VAYJF,0,0.49437851758171314,0,Medium Risk,Send feedback survey and personalized offers,11,Month-to-month,45.2,492.0,49.44
+2761-XECQW,0,0.49330680109744884,0,Medium Risk,Send feedback survey and personalized offers,8,Month-to-month,43.35,371.4,49.33
+1205-WNWPJ,1,0.4931489699586878,0,Medium Risk,Send feedback survey and personalized offers,7,Month-to-month,59.5,415.95,49.31
+2346-DJQTB,0,0.49016265562910005,0,Medium Risk,Send feedback survey and personalized offers,35,Month-to-month,24.15,812.5,49.02
+8620-RJPZN,0,0.48953127812425784,0,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,20.7,20.7,48.95
+5766-ZJYBB,1,0.4892690287266095,0,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,19.4,19.4,48.93
+3587-PMCOY,0,0.4886874783949575,0,Medium Risk,Send feedback survey and personalized offers,10,One year,98.9,1064.95,48.87
+8988-ECPJR,1,0.4883466105151968,0,Medium Risk,Send feedback survey and personalized offers,34,Month-to-month,79.6,2718.3,48.83
+5419-KLXBN,1,0.48808560858236205,0,Medium Risk,Send feedback survey and personalized offers,25,Month-to-month,89.15,2257.75,48.81
+7876-BEUTG,0,0.48797787806953685,0,Medium Risk,Send feedback survey and personalized offers,15,Month-to-month,48.8,720.1,48.8
+8152-UOBNY,0,0.4867572894424322,0,Medium Risk,Send feedback survey and personalized offers,50,One year,106.8,5347.95,48.68
+6331-LWDTQ,1,0.48562567819158153,0,Medium Risk,Send feedback survey and personalized offers,10,Month-to-month,72.15,794.25,48.56
+9842-EFSYY,0,0.48340168823121327,0,Medium Risk,Send feedback survey and personalized offers,4,Month-to-month,57.2,223.75,48.34
+1600-DILPE,0,0.482655406495754,0,Medium Risk,Send feedback survey and personalized offers,12,Month-to-month,45.0,524.35,48.27
+9979-RGMZT,0,0.4824657356395699,0,Medium Risk,Send feedback survey and personalized offers,7,One year,94.05,633.45,48.25
+3192-LNKRK,0,0.47692560480134366,0,Medium Risk,Send feedback survey and personalized offers,34,Month-to-month,84.05,2909.95,47.69
+2000-MPKCA,0,0.4744557727950573,0,Medium Risk,Send feedback survey and personalized offers,58,One year,107.75,6332.75,47.45
+4989-LIXVT,0,0.474347656266189,0,Medium Risk,Send feedback survey and personalized offers,68,Month-to-month,95.9,6503.2,47.43
+0428-IKYCP,0,0.4742624872325454,0,Medium Risk,Send feedback survey and personalized offers,22,Month-to-month,87.0,1850.65,47.43
+6137-MFAJN,0,0.47389721349039,0,Medium Risk,Send feedback survey and personalized offers,48,Month-to-month,44.8,2104.55,47.39
+4905-JEFDW,1,0.4715290844060382,0,Medium Risk,Send feedback survey and personalized offers,11,One year,41.6,470.6,47.15
+5133-VRSAB,0,0.4707610290757414,0,Medium Risk,Send feedback survey and personalized offers,8,Month-to-month,29.35,216.45,47.08
+1658-XUHBX,0,0.4704091895105257,0,Medium Risk,Send feedback survey and personalized offers,59,Month-to-month,88.75,5348.65,47.04
+2669-QVCRG,0,0.4693644090952395,0,Medium Risk,Send feedback survey and personalized offers,41,Month-to-month,81.3,3190.65,46.94
+9445-SZLCH,1,0.46863256527712077,0,Medium Risk,Send feedback survey and personalized offers,36,Month-to-month,97.35,3457.9,46.86
+8096-LOIST,0,0.46451029834645285,0,Medium Risk,Send feedback survey and personalized offers,19,Month-to-month,56.2,1093.4,46.45
+7277-OZCGZ,0,0.46372854483179415,0,Medium Risk,Send feedback survey and personalized offers,22,Month-to-month,89.05,1886.25,46.37
+3207-OYBWH,1,0.4637177120663876,0,Medium Risk,Send feedback survey and personalized offers,57,Month-to-month,95.25,5427.05,46.37
+7047-FWEYA,0,0.46369295391459636,0,Medium Risk,Send feedback survey and personalized offers,46,One year,103.15,4594.65,46.37
+3058-WQDRE,0,0.4631483447383679,0,Medium Risk,Send feedback survey and personalized offers,13,Month-to-month,25.15,331.85,46.31
+6543-CPZMK,1,0.46305204214945433,0,Medium Risk,Send feedback survey and personalized offers,9,Month-to-month,29.95,248.95,46.31
+1853-ARAAQ,0,0.4629413312697806,0,Medium Risk,Send feedback survey and personalized offers,26,Month-to-month,50.35,1277.5,46.29
+9591-YVTEB,0,0.4620047190407609,0,Medium Risk,Send feedback survey and personalized offers,55,Month-to-month,44.85,2479.05,46.2
+4724-WXVWF,0,0.46166173026032725,0,Medium Risk,Send feedback survey and personalized offers,48,Month-to-month,95.4,4445.3,46.17
+2883-ILGWO,0,0.4616421578596484,0,Medium Risk,Send feedback survey and personalized offers,57,Month-to-month,104.9,5913.95,46.16
+2144-BFDSO,0,0.4572831433631789,0,Medium Risk,Send feedback survey and personalized offers,50,Month-to-month,108.75,5431.9,45.73
+4983-CLMLV,0,0.45721618233327876,0,Medium Risk,Send feedback survey and personalized offers,52,Month-to-month,102.7,5138.1,45.72
+4640-UHDOS,1,0.45661811413218173,0,Medium Risk,Send feedback survey and personalized offers,13,Month-to-month,55.95,734.35,45.66
+5136-GFPMB,0,0.45581258394242313,0,Medium Risk,Send feedback survey and personalized offers,54,Month-to-month,89.4,4869.5,45.58
+6646-QVXLR,1,0.45558671582447924,0,Medium Risk,Send feedback survey and personalized offers,62,One year,103.75,6383.35,45.56
+3331-HQDTW,1,0.4554959967252518,0,Medium Risk,Send feedback survey and personalized offers,34,Month-to-month,109.8,3587.25,45.55
+6777-TGHTM,1,0.4545939609538271,0,Medium Risk,Send feedback survey and personalized offers,53,One year,106.95,5785.5,45.46
+8896-BQTTI,0,0.4542245925472047,0,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,25.0,25.0,45.42
+1208-NBVFH,0,0.4540794376515095,0,Medium Risk,Send feedback survey and personalized offers,20,Month-to-month,49.6,939.8,45.41
+3692-JHONH,0,0.45200312479729293,0,Medium Risk,Send feedback survey and personalized offers,52,One year,106.5,5621.85,45.2
+0924-BJCRC,0,0.45112980076541864,0,Medium Risk,Send feedback survey and personalized offers,60,Month-to-month,89.45,5294.6,45.11
+4211-MMAZN,1,0.4499676633575813,0,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,20.25,20.25,45.0
+4824-GUCBY,0,0.4499048995601982,0,Medium Risk,Send feedback survey and personalized offers,22,Month-to-month,81.7,1820.9,44.99
+3373-YZZYM,0,0.4498862861615621,0,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,19.2,19.2,44.99
+9318-NKNFC,1,0.4489894634710375,0,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,18.85,18.85,44.9
+2731-GJRDG,0,0.44870650598102807,0,Medium Risk,Send feedback survey and personalized offers,32,One year,109.55,3608.0,44.87
+5630-AHZIL,0,0.4476719748517029,0,Medium Risk,Send feedback survey and personalized offers,3,Month-to-month,64.5,177.4,44.77
+6711-VTNRE,1,0.447530306978391,0,Medium Risk,Send feedback survey and personalized offers,36,Month-to-month,87.55,3078.1,44.75
+1550-LOAHA,1,0.4472561789664462,0,Medium Risk,Send feedback survey and personalized offers,32,Month-to-month,84.15,2585.95,44.73
+0691-NIKRI,0,0.44714038362432634,0,Medium Risk,Send feedback survey and personalized offers,40,One year,105.95,4335.2,44.71
+8920-NAVAY,0,0.4459664518811684,0,Medium Risk,Send feedback survey and personalized offers,62,One year,110.75,7053.35,44.6
+1170-SASML,0,0.44564990440433966,0,Medium Risk,Send feedback survey and personalized offers,69,Month-to-month,85.4,5869.4,44.56
+0486-HECZI,1,0.44503790842135155,0,Medium Risk,Send feedback survey and personalized offers,55,Month-to-month,96.75,5238.9,44.5
+2519-LBNQL,0,0.4446352875831095,0,Medium Risk,Send feedback survey and personalized offers,60,One year,104.35,6339.45,44.46
+6704-UTUKK,0,0.4444306488847784,0,Medium Risk,Send feedback survey and personalized offers,29,Month-to-month,45.9,1332.4,44.44
+7130-YXBRO,0,0.442024567712927,0,Medium Risk,Send feedback survey and personalized offers,48,Month-to-month,111.45,5315.1,44.2
+0422-UXFAP,0,0.4402914362866476,0,Medium Risk,Send feedback survey and personalized offers,51,One year,98.85,4947.55,44.03
+8033-VCZGH,0,0.4388273899606181,0,Medium Risk,Send feedback survey and personalized offers,50,One year,103.95,5231.3,43.88
+4393-RYCRE,0,0.43717172353964473,0,Medium Risk,Send feedback survey and personalized offers,44,One year,106.05,4510.8,43.72
+0295-QVKPB,0,0.43611844787250237,0,Medium Risk,Send feedback survey and personalized offers,5,Month-to-month,63.95,318.1,43.61
+3018-TFTSU,1,0.4352415667526881,0,Medium Risk,Send feedback survey and personalized offers,12,Month-to-month,81.7,858.6,43.52
+3890-RTCMS,0,0.43496895575512384,0,Medium Risk,Send feedback survey and personalized offers,16,Month-to-month,49.45,799.0,43.5
+9154-QDGTH,0,0.4348828938361094,0,Medium Risk,Send feedback survey and personalized offers,43,One year,104.3,4451.85,43.49
+9767-FFLEM,0,0.43486348071152336,0,Medium Risk,Send feedback survey and personalized offers,38,Month-to-month,69.5,2625.25,43.49
+9122-UMROB,0,0.4340393504603932,0,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,20.3,20.3,43.4
+0742-MOABM,1,0.43301760398072475,0,Medium Risk,Send feedback survey and personalized offers,4,Month-to-month,50.05,179.35,43.3
+0909-SDHNU,0,0.4328260793180634,0,Medium Risk,Send feedback survey and personalized offers,7,Month-to-month,29.8,201.95,43.28
+5716-LIBJC,0,0.4309916280015603,0,Medium Risk,Send feedback survey and personalized offers,13,One year,104.15,1299.1,43.1
+6578-KRMAW,0,0.43020628225039653,0,Medium Risk,Send feedback survey and personalized offers,32,Month-to-month,93.4,2979.3,43.02
+6559-RAKOZ,0,0.429906360360394,0,Medium Risk,Send feedback survey and personalized offers,49,One year,97.95,4917.9,42.99
+8053-WWDRO,1,0.42588102446551934,0,Medium Risk,Send feedback survey and personalized offers,6,Month-to-month,19.5,146.3,42.59
+5049-GLYVG,1,0.42422255506987383,0,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,20.6,20.6,42.42
+4693-VWVBO,0,0.42418560635001407,0,Medium Risk,Send feedback survey and personalized offers,3,Month-to-month,19.55,61.05,42.42
+5575-TPIZQ,0,0.42372815385105556,0,Medium Risk,Send feedback survey and personalized offers,46,Month-to-month,89.15,4245.55,42.37
+7351-MHQVU,0,0.42274700189023606,0,Medium Risk,Send feedback survey and personalized offers,6,Month-to-month,50.95,307.6,42.27
+4324-AHJKS,0,0.4224612274390199,0,Medium Risk,Send feedback survey and personalized offers,5,Month-to-month,55.8,300.4,42.25
+7893-IXHRQ,1,0.4218635431507813,0,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,20.55,20.55,42.19
+6344-SFJVH,0,0.4203505138682119,0,Medium Risk,Send feedback survey and personalized offers,20,Month-to-month,24.9,505.95,42.04
+3689-MOZGR,0,0.42032784741588647,0,Medium Risk,Send feedback survey and personalized offers,29,Month-to-month,31.2,926.2,42.03
+7554-AKDQF,0,0.4201203659985808,0,Medium Risk,Send feedback survey and personalized offers,6,Month-to-month,45.65,323.45,42.01
+5701-SVCWR,0,0.4191935360343416,0,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,24.0,24.0,41.92
+1436-ZMJAN,0,0.417631671791574,0,Medium Risk,Send feedback survey and personalized offers,10,Month-to-month,67.8,653.15,41.76
+6806-YDEUL,0,0.4142612755051493,0,Medium Risk,Send feedback survey and personalized offers,6,Month-to-month,19.5,106.8,41.43
+2585-KTFRE,0,0.41421413006627417,0,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,70.45,70.45,41.42
+8016-NCFVO,0,0.412579359894559,0,Medium Risk,Send feedback survey and personalized offers,55,Month-to-month,116.5,6382.55,41.26
+7611-YKYTC,0,0.41076057409589134,0,Medium Risk,Send feedback survey and personalized offers,22,Month-to-month,75.0,1573.95,41.08
+2832-SCUCO,0,0.41002153159223487,0,Medium Risk,Send feedback survey and personalized offers,2,Month-to-month,19.9,57.4,41.0
+4918-FYJNT,0,0.4093922294385159,0,Medium Risk,Send feedback survey and personalized offers,55,Month-to-month,90.45,5044.8,40.94
+5701-ZIKJE,0,0.409010855544495,0,Medium Risk,Send feedback survey and personalized offers,13,Month-to-month,50.55,610.75,40.9
+2139-FQHLM,0,0.4082077294123674,0,Medium Risk,Send feedback survey and personalized offers,19,Month-to-month,89.95,1682.4,40.82
+7766-CLTIC,0,0.40775130133421256,0,Medium Risk,Send feedback survey and personalized offers,10,Month-to-month,60.95,629.55,40.78
+6891-JPYFF,0,0.4074812287326214,0,Medium Risk,Send feedback survey and personalized offers,48,Month-to-month,105.25,4997.5,40.75
+1113-IUJYX,1,0.40459897464609446,0,Medium Risk,Send feedback survey and personalized offers,14,One year,105.95,1348.9,40.46
+6008-NAIXK,0,0.40113636588406093,0,Medium Risk,Send feedback survey and personalized offers,54,One year,55.45,2966.95,40.11
+7808-DVWEP,0,0.3996592428878339,0,Medium Risk,Send feedback survey and personalized offers,3,Month-to-month,20.0,49.65,39.97
+0327-WFZSY,0,0.39948626037482327,0,Medium Risk,Send feedback survey and personalized offers,39,One year,100.0,3835.55,39.95
+6713-OKOMC,0,0.39905046451908305,0,Medium Risk,Send feedback survey and personalized offers,10,Month-to-month,29.75,301.9,39.91
+9489-UTFKA,0,0.39849325374480626,0,Medium Risk,Send feedback survey and personalized offers,8,Month-to-month,60.9,551.95,39.85
+6218-KNUBD,0,0.39828202836465176,0,Medium Risk,Send feedback survey and personalized offers,6,Month-to-month,59.45,357.6,39.83
+7576-JMYWV,0,0.397583888099587,0,Medium Risk,Send feedback survey and personalized offers,46,Month-to-month,110.2,4972.1,39.76
+8535-SFUTN,0,0.3959863721830357,0,Medium Risk,Send feedback survey and personalized offers,61,Month-to-month,106.45,6300.15,39.6
+1784-EZDKJ,0,0.39590826112862243,0,Medium Risk,Send feedback survey and personalized offers,51,One year,106.8,5498.8,39.59
+4646-QZXTF,0,0.39478676859609757,0,Medium Risk,Send feedback survey and personalized offers,7,Month-to-month,81.25,580.1,39.48
+3413-DHLPB,0,0.3936673329224829,0,Medium Risk,Send feedback survey and personalized offers,60,Month-to-month,103.75,5969.95,39.37
+9494-BDNNC,0,0.3933860785632835,0,Medium Risk,Send feedback survey and personalized offers,66,One year,95.3,6273.4,39.34
+8375-KVTHK,0,0.3930027106185757,0,Medium Risk,Send feedback survey and personalized offers,68,One year,100.3,6754.35,39.3
+1956-YIFGE,0,0.39114228673667023,0,Medium Risk,Send feedback survey and personalized offers,22,One year,100.05,2090.25,39.11
+7067-KSAZT,1,0.3891700335403348,0,Medium Risk,Send feedback survey and personalized offers,65,One year,106.25,6979.8,38.92
+7742-MYPGI,0,0.3889840355926413,0,Medium Risk,Send feedback survey and personalized offers,6,Month-to-month,48.8,297.35,38.9
+8840-DQLGN,1,0.3886206654982988,0,Medium Risk,Send feedback survey and personalized offers,35,Month-to-month,100.5,3653.35,38.86
+0106-GHRQR,0,0.3875479405156285,0,Medium Risk,Send feedback survey and personalized offers,16,Month-to-month,71.4,1212.1,38.75
+3043-TYBNO,0,0.38592507410270327,0,Medium Risk,Send feedback survey and personalized offers,3,Month-to-month,60.65,196.9,38.59
+8495-LJDFO,0,0.38586261809794486,0,Medium Risk,Send feedback survey and personalized offers,64,Month-to-month,108.95,7111.3,38.59
+6917-YACBP,0,0.3856449138333997,0,Medium Risk,Send feedback survey and personalized offers,59,Month-to-month,89.75,5496.9,38.56
+4695-VADHF,1,0.385537422602929,0,Medium Risk,Send feedback survey and personalized offers,18,Month-to-month,57.45,990.85,38.55
+0851-DFJKB,0,0.3853509093018125,0,Medium Risk,Send feedback survey and personalized offers,15,Month-to-month,58.95,955.15,38.54
+7251-XFOIL,0,0.3848393732703825,0,Medium Risk,Send feedback survey and personalized offers,61,Month-to-month,89.2,5500.6,38.48
+4012-ZTHBR,0,0.38465659262502994,0,Medium Risk,Send feedback survey and personalized offers,21,Month-to-month,44.95,926.25,38.47
+4160-AMJTL,1,0.38099194297480793,0,Medium Risk,Send feedback survey and personalized offers,8,Month-to-month,19.65,164.3,38.1
+1074-AMIOH,0,0.38079620173695217,0,Medium Risk,Send feedback survey and personalized offers,53,Month-to-month,108.25,5935.1,38.08
+0363-QJVFX,1,0.37904054310679447,0,Medium Risk,Send feedback survey and personalized offers,32,Month-to-month,108.15,3432.9,37.9
+8976-OQHGT,1,0.37574191768328546,0,Medium Risk,Send feedback survey and personalized offers,4,Month-to-month,56.5,235.1,37.57
+7398-LXGYX,0,0.37510290938120483,0,Medium Risk,Send feedback survey and personalized offers,44,Month-to-month,84.8,3626.35,37.51
+1848-LBZHY,0,0.37380312481108613,0,Medium Risk,Send feedback survey and personalized offers,7,Month-to-month,50.3,355.1,37.38
+0058-EVZWM,0,0.3737271069282748,0,Medium Risk,Send feedback survey and personalized offers,55,Month-to-month,89.8,4959.6,37.37
+9761-XUJWD,0,0.373425343364876,0,Medium Risk,Send feedback survey and personalized offers,5,Month-to-month,65.6,339.9,37.34
+7551-DACSP,1,0.3711311985956979,0,Medium Risk,Send feedback survey and personalized offers,6,Month-to-month,55.3,324.25,37.11
+0719-SYFRB,1,0.3682881386211173,0,Medium Risk,Send feedback survey and personalized offers,12,Month-to-month,61.65,713.75,36.83
+4118-CEVPF,0,0.367286765023149,0,Medium Risk,Send feedback survey and personalized offers,35,One year,110.8,3836.3,36.73
+6583-SZVGP,0,0.3668695904800369,0,Medium Risk,Send feedback survey and personalized offers,48,Two year,108.1,5067.45,36.69
+8671-KKKOS,0,0.36656422886328416,0,Medium Risk,Send feedback survey and personalized offers,46,Month-to-month,45.55,2062.15,36.66
+8189-HBVRW,0,0.364179472343327,0,Medium Risk,Send feedback survey and personalized offers,53,Month-to-month,90.8,4921.2,36.42
+5339-TJFEK,0,0.3630906026088347,0,Medium Risk,Send feedback survey and personalized offers,62,Month-to-month,105.5,6487.2,36.31
+2266-SJNAT,0,0.3616597359033644,0,Medium Risk,Send feedback survey and personalized offers,72,One year,109.15,7789.6,36.17
+3164-YAXFY,0,0.36116034158967375,0,Medium Risk,Send feedback survey and personalized offers,57,Month-to-month,53.75,3196.0,36.12
+8495-PRWFH,0,0.3606042008705073,0,Medium Risk,Send feedback survey and personalized offers,42,Month-to-month,55.65,2421.75,36.06
+8049-WJCLQ,0,0.3601434291105495,0,Medium Risk,Send feedback survey and personalized offers,10,Month-to-month,60.2,563.5,36.01
+8421-WZOOW,0,0.3600673617709975,0,Medium Risk,Send feedback survey and personalized offers,57,Month-to-month,95.3,5567.45,36.01
+9233-PSYHO,0,0.3591667988332319,0,Medium Risk,Send feedback survey and personalized offers,45,One year,100.15,4459.8,35.92
+0222-CNVPT,0,0.3582415552525291,0,Medium Risk,Send feedback survey and personalized offers,52,Month-to-month,48.8,2555.05,35.82
+5949-EBSQK,1,0.35816962038719496,0,Medium Risk,Send feedback survey and personalized offers,4,Month-to-month,61.45,229.55,35.82
+1986-PHGZF,0,0.35516600044968294,0,Medium Risk,Send feedback survey and personalized offers,18,Month-to-month,58.4,964.9,35.52
+9103-TCIHJ,1,0.3545405861140185,0,Medium Risk,Send feedback survey and personalized offers,15,Month-to-month,55.7,899.8,35.45
+5334-JLAXU,0,0.3520625890199518,0,Medium Risk,Send feedback survey and personalized offers,60,Month-to-month,94.1,5475.9,35.21
+8023-QHAIO,0,0.35174838216567644,0,Medium Risk,Send feedback survey and personalized offers,56,Month-to-month,76.85,4275.75,35.17
+4237-CLSMM,0,0.3502776179855081,0,Medium Risk,Send feedback survey and personalized offers,2,Month-to-month,20.0,38.0,35.03
+9643-YBLUR,0,0.34888480259797555,0,Medium Risk,Send feedback survey and personalized offers,9,Month-to-month,69.05,653.95,34.89
+3977-QCRSL,0,0.3481146885390327,0,Medium Risk,Send feedback survey and personalized offers,5,Month-to-month,20.15,117.95,34.81
+7351-KYHQH,0,0.3472555640406809,0,Medium Risk,Send feedback survey and personalized offers,7,Month-to-month,64.95,493.65,34.73
+0931-MHTEM,0,0.34661046137829904,0,Medium Risk,Send feedback survey and personalized offers,54,One year,100.05,5299.65,34.66
+5174-ITUMV,0,0.34632542612627676,0,Medium Risk,Send feedback survey and personalized offers,67,One year,105.4,6989.45,34.63
+2165-VOEGB,1,0.346304558977487,0,Medium Risk,Send feedback survey and personalized offers,46,One year,105.2,4822.85,34.63
+1395-OFUWC,0,0.346253957919996,0,Medium Risk,Send feedback survey and personalized offers,43,Month-to-month,29.3,1224.05,34.63
+0959-WHOKV,0,0.34591115071828954,0,Medium Risk,Send feedback survey and personalized offers,42,One year,99.0,4298.45,34.59
+5702-SKUOB,0,0.3454981005109442,0,Medium Risk,Send feedback survey and personalized offers,4,Month-to-month,19.6,93.45,34.55
+7124-UGSUR,1,0.34535776336606344,0,Medium Risk,Send feedback survey and personalized offers,61,One year,104.4,6405.0,34.54
+3301-LSLWQ,0,0.3443428475882412,0,Medium Risk,Send feedback survey and personalized offers,29,Month-to-month,66.1,1912.15,34.43
+7343-EOBEU,0,0.34422847555541275,0,Medium Risk,Send feedback survey and personalized offers,3,Month-to-month,23.6,89.05,34.42
+0297-RBCSG,0,0.34228988403395605,0,Medium Risk,Send feedback survey and personalized offers,19,One year,65.35,1231.85,34.23
+6821-JPCDC,0,0.34058352538807063,0,Medium Risk,Send feedback survey and personalized offers,48,One year,97.05,4692.95,34.06
+6429-SHBCB,0,0.340286662228827,0,Medium Risk,Send feedback survey and personalized offers,19,Month-to-month,69.6,1394.55,34.03
+3363-EWLGO,0,0.3395764382194074,0,Medium Risk,Send feedback survey and personalized offers,5,Month-to-month,19.95,109.6,33.96
+0409-WTMPL,0,0.3393050857325946,0,Medium Risk,Send feedback survey and personalized offers,58,One year,110.65,6526.65,33.93
+2272-JKMSI,0,0.33926216278328597,0,Medium Risk,Send feedback survey and personalized offers,62,One year,110.8,6840.95,33.93
+9986-BONCE,1,0.3382349127196931,0,Medium Risk,Send feedback survey and personalized offers,4,Month-to-month,20.95,85.5,33.82
+8739-QOTTN,0,0.33785214711890577,0,Medium Risk,Send feedback survey and personalized offers,2,Month-to-month,20.35,41.85,33.79
+4250-WAROZ,0,0.33751991151319966,0,Medium Risk,Send feedback survey and personalized offers,60,Month-to-month,93.25,5774.55,33.75
+9089-UOWJG,0,0.33659433853977605,0,Medium Risk,Send feedback survey and personalized offers,12,Month-to-month,58.35,740.55,33.66
+7821-DPRQE,0,0.33552477879751735,0,Medium Risk,Send feedback survey and personalized offers,68,Month-to-month,107.7,7320.9,33.55
+4819-HJPIW,0,0.3348373522508461,0,Medium Risk,Send feedback survey and personalized offers,18,Month-to-month,25.15,476.8,33.48
+7926-IJOOU,0,0.33441365448757515,0,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,19.3,19.3,33.44
+2700-LUEVA,0,0.3342389059979898,0,Medium Risk,Send feedback survey and personalized offers,1,Month-to-month,20.75,20.75,33.42
+6797-UCJHZ,0,0.3340350292295577,0,Medium Risk,Send feedback survey and personalized offers,66,One year,104.6,6819.45,33.4
+3606-SBKRY,0,0.33396881067437933,0,Medium Risk,Send feedback survey and personalized offers,31,One year,50.05,1523.4,33.4
+1357-MVDOZ,0,0.33384181166420945,0,Medium Risk,Send feedback survey and personalized offers,11,Month-to-month,59.65,683.25,33.38
+8930-XOTDP,0,0.3337830503286493,0,Medium Risk,Send feedback survey and personalized offers,18,Month-to-month,55.95,1082.8,33.38
+2458-EOMRE,0,0.3328450407335358,0,Medium Risk,Send feedback survey and personalized offers,11,Month-to-month,64.05,733.95,33.28
+6270-OMFIW,1,0.33155453921556577,0,Medium Risk,Send feedback survey and personalized offers,60,One year,94.4,5610.25,33.16
+7854-EKTJL,1,0.330408558262118,0,Medium Risk,Send feedback survey and personalized offers,2,Month-to-month,19.6,35.85,33.04
+3858-XHYJO,0,0.3288337435193576,0,Medium Risk,Send feedback survey and personalized offers,40,One year,105.75,4228.55,32.88
+2599-CZABP,0,0.3280697626521032,0,Medium Risk,Send feedback survey and personalized offers,14,One year,44.6,641.25,32.81
+5827-MWCZK,0,0.3261253784766924,0,Medium Risk,Send feedback survey and personalized offers,56,Month-to-month,96.95,5432.2,32.61
+2257-BOVXD,0,0.32522467554207546,0,Medium Risk,Send feedback survey and personalized offers,14,Month-to-month,66.6,979.5,32.52
+6599-GZWCM,0,0.32430646804205,0,Medium Risk,Send feedback survey and personalized offers,13,One year,74.65,966.25,32.43
+9254-RBFON,1,0.32374842576453305,0,Medium Risk,Send feedback survey and personalized offers,17,One year,98.6,1704.95,32.37
+8182-PNAGI,1,0.3236478141990728,0,Medium Risk,Send feedback survey and personalized offers,12,Month-to-month,50.25,593.75,32.36
+7776-QGYJC,0,0.3209549432421175,0,Medium Risk,Send feedback survey and personalized offers,39,Month-to-month,81.5,3107.3,32.1
+2284-VFLKH,0,0.32077326775456255,0,Medium Risk,Send feedback survey and personalized offers,49,One year,99.25,4920.8,32.08
+8791-GFXLZ,0,0.3203450025922461,0,Medium Risk,Send feedback survey and personalized offers,12,Month-to-month,49.05,593.05,32.03
+6972-SNKKW,0,0.3200457811768206,0,Medium Risk,Send feedback survey and personalized offers,6,Month-to-month,20.0,109.2,32.0
+0431-APWVY,1,0.31863472753316446,0,Medium Risk,Send feedback survey and personalized offers,28,One year,90.1,2598.95,31.86
+1229-RCALF,0,0.31660396661085727,0,Medium Risk,Send feedback survey and personalized offers,64,One year,115.0,7396.15,31.66
+2995-UPRYS,1,0.3138083212042345,0,Medium Risk,Send feedback survey and personalized offers,40,One year,99.2,4062.2,31.38
+7537-CBQUZ,0,0.312474079443894,0,Medium Risk,Send feedback survey and personalized offers,63,Month-to-month,109.4,7031.45,31.25
+2305-MRGLV,0,0.31117491110763285,0,Medium Risk,Send feedback survey and personalized offers,28,Month-to-month,76.55,2065.4,31.12
+8402-EIVQS,0,0.31073265520257254,0,Medium Risk,Send feedback survey and personalized offers,67,One year,100.9,6733.15,31.07
+5553-AOINX,0,0.30943023012838866,0,Medium Risk,Send feedback survey and personalized offers,66,One year,104.9,6891.45,30.94
+5206-XZZQI,0,0.3091326839720185,0,Medium Risk,Send feedback survey and personalized offers,53,Month-to-month,80.6,4348.1,30.91
+0822-QGCXA,0,0.3082558771115288,0,Medium Risk,Send feedback survey and personalized offers,27,Month-to-month,83.85,2310.2,30.83
+5360-LJCNJ,0,0.3077256171263494,0,Medium Risk,Send feedback survey and personalized offers,71,Two year,105.15,7555.0,30.77
+6671-NGWON,0,0.3073653562274172,0,Medium Risk,Send feedback survey and personalized offers,7,Month-to-month,20.35,150.6,30.74
+0440-QEXBZ,0,0.30666861230835907,0,Medium Risk,Send feedback survey and personalized offers,44,Month-to-month,50.15,2139.1,30.67
+4753-PADAS,0,0.3061253178667402,0,Medium Risk,Send feedback survey and personalized offers,67,One year,105.7,6816.95,30.61
+6497-TILVL,0,0.3054145198015435,0,Medium Risk,Send feedback survey and personalized offers,7,Month-to-month,50.7,350.35,30.54
+8319-QBEHW,0,0.3050072291821167,0,Medium Risk,Send feedback survey and personalized offers,26,One year,39.95,1023.75,30.5
+1768-HNVGJ,0,0.30378516125006255,0,Medium Risk,Send feedback survey and personalized offers,45,Month-to-month,70.05,3062.45,30.38
+2338-BQEZT,0,0.3033320205747622,0,Medium Risk,Send feedback survey and personalized offers,55,Month-to-month,50.55,2832.75,30.33
+2798-NYLMZ,0,0.3001503729272821,0,Medium Risk,Send feedback survey and personalized offers,71,Two year,108.55,7616.0,30.02
+4190-MFLUW,1,0.30010903005955053,0,Medium Risk,Send feedback survey and personalized offers,10,Month-to-month,55.2,528.35,30.01
+5198-HQAEN,0,0.298935334717556,0,Low Risk,Regular engagement and loyalty benefits,35,One year,89.7,3165.6,29.89
+1370-GGAWX,0,0.2983768289489651,0,Low Risk,Regular engagement and loyalty benefits,46,One year,94.15,4408.45,29.84
+3537-RYBHH,0,0.29830613730746397,0,Low Risk,Regular engagement and loyalty benefits,47,Month-to-month,67.45,3252.0,29.83
+5236-PERKL,1,0.2973901333215168,0,Low Risk,Regular engagement and loyalty benefits,57,Two year,112.95,6465.0,29.74
+9128-CPXKI,0,0.29721478575665344,0,Low Risk,Regular engagement and loyalty benefits,59,Two year,95.8,5655.45,29.72
+7868-BGSZA,0,0.2969992544035614,0,Low Risk,Regular engagement and loyalty benefits,43,One year,80.2,3581.6,29.7
+0701-TJSEF,0,0.2954750636113525,0,Low Risk,Regular engagement and loyalty benefits,9,Month-to-month,68.25,576.95,29.55
+4184-VODJZ,0,0.2947711257910866,0,Low Risk,Regular engagement and loyalty benefits,63,One year,91.35,5764.7,29.48
+4869-EPIUS,0,0.29387570338494245,0,Low Risk,Regular engagement and loyalty benefits,56,One year,80.9,4557.5,29.39
+3982-DQLUS,0,0.2935441391169271,0,Low Risk,Regular engagement and loyalty benefits,65,Month-to-month,85.75,5688.45,29.35
+0750-EBAIU,0,0.292811314163979,0,Low Risk,Regular engagement and loyalty benefits,52,One year,91.25,4738.3,29.28
+3022-BEXHZ,0,0.291167071389102,0,Low Risk,Regular engagement and loyalty benefits,67,Two year,111.2,7530.8,29.12
+6164-HXUGH,0,0.28878564036463616,0,Low Risk,Regular engagement and loyalty benefits,6,Month-to-month,19.85,119.3,28.88
+7789-CRUVC,0,0.2882088340101797,0,Low Risk,Regular engagement and loyalty benefits,61,Month-to-month,94.2,5895.45,28.82
+3450-WXOAT,0,0.2877329514657031,0,Low Risk,Regular engagement and loyalty benefits,46,Month-to-month,45.2,2065.15,28.77
+6319-QSUSR,0,0.28657447198837976,0,Low Risk,Regular engagement and loyalty benefits,11,Month-to-month,19.7,216.2,28.66
+3413-CSSTH,0,0.2865308108143452,0,Low Risk,Regular engagement and loyalty benefits,41,Month-to-month,55.7,2237.55,28.65
+3077-RSNTJ,0,0.2857019751700489,0,Low Risk,Regular engagement and loyalty benefits,6,Month-to-month,19.7,113.5,28.57
+9470-RTWDV,0,0.28520229663254726,0,Low Risk,Regular engagement and loyalty benefits,26,One year,82.0,2083.1,28.52
+3011-WQKSZ,0,0.2827197152422898,0,Low Risk,Regular engagement and loyalty benefits,19,Month-to-month,20.0,377.55,28.27
+6258-NGCNG,0,0.28254644157876185,0,Low Risk,Regular engagement and loyalty benefits,7,Month-to-month,23.5,173.0,28.25
+3126-WQMGH,0,0.28193012070377144,0,Low Risk,Regular engagement and loyalty benefits,49,Month-to-month,52.15,2583.75,28.19
+6668-CNMFP,0,0.28177655694883286,0,Low Risk,Regular engagement and loyalty benefits,19,One year,89.35,1686.85,28.18
+3638-DIMPH,0,0.28149244097591913,0,Low Risk,Regular engagement and loyalty benefits,13,One year,43.8,592.65,28.15
+4946-EDSEW,1,0.27990338105927237,0,Low Risk,Regular engagement and loyalty benefits,11,Month-to-month,19.25,180.3,27.99
+5067-DGXLL,0,0.27907024175666695,0,Low Risk,Regular engagement and loyalty benefits,2,Month-to-month,20.25,36.8,27.91
+8652-YHIYU,0,0.27893297951706303,0,Low Risk,Regular engagement and loyalty benefits,16,One year,79.5,1264.2,27.89
+8849-GYOKR,1,0.2788151352172983,0,Low Risk,Regular engagement and loyalty benefits,54,One year,106.55,5763.3,27.88
+0946-FKYTX,0,0.2784963905627653,0,Low Risk,Regular engagement and loyalty benefits,52,One year,30.1,1623.4,27.85
+5876-HZVZM,1,0.277575782676742,0,Low Risk,Regular engagement and loyalty benefits,6,Month-to-month,55.9,365.35,27.76
+1485-YDHMM,0,0.2774361408940691,0,Low Risk,Regular engagement and loyalty benefits,52,Month-to-month,93.25,4631.7,27.74
+2061-VVFST,0,0.27738029063483344,0,Low Risk,Regular engagement and loyalty benefits,37,Month-to-month,19.5,805.2,27.74
+5985-BEHZK,0,0.2766982758285497,0,Low Risk,Regular engagement and loyalty benefits,72,One year,105.0,7578.05,27.67
+6475-VHUIZ,0,0.2766284960838574,0,Low Risk,Regular engagement and loyalty benefits,23,Month-to-month,54.25,1221.55,27.66
+7471-MQPOS,0,0.2764517554228205,0,Low Risk,Regular engagement and loyalty benefits,71,One year,72.9,5139.65,27.65
+0128-MKWSG,0,0.2764209886374079,0,Low Risk,Regular engagement and loyalty benefits,26,Month-to-month,45.8,1147.0,27.64
+6483-OATDN,0,0.2760579665379455,0,Low Risk,Regular engagement and loyalty benefits,8,Month-to-month,51.3,411.6,27.61
+0961-ZWLVI,0,0.2757120174028525,0,Low Risk,Regular engagement and loyalty benefits,49,One year,109.2,5290.45,27.57
+1697-NVVGY,0,0.27554421519603745,0,Low Risk,Regular engagement and loyalty benefits,19,Month-to-month,66.4,1286.05,27.55
+5562-YJQGT,0,0.275389488110806,0,Low Risk,Regular engagement and loyalty benefits,2,Month-to-month,20.35,35.1,27.54
+3807-BPOMJ,0,0.2748103150660123,0,Low Risk,Regular engagement and loyalty benefits,55,One year,94.75,5276.1,27.48
+3530-CRZSB,0,0.27476162582109165,0,Low Risk,Regular engagement and loyalty benefits,7,Month-to-month,20.65,155.9,27.48
+3313-QKNKB,1,0.2737133779165097,0,Low Risk,Regular engagement and loyalty benefits,59,One year,85.55,5084.65,27.37
+3410-MHHUM,0,0.27353094657922905,0,Low Risk,Regular engagement and loyalty benefits,44,One year,94.4,4295.35,27.35
+3325-FUYCG,1,0.2734128115457644,0,Low Risk,Regular engagement and loyalty benefits,28,One year,106.1,2847.4,27.34
+7629-WIXZF,0,0.27203146990509414,0,Low Risk,Regular engagement and loyalty benefits,7,One year,59.1,369.25,27.2
+6946-LMSQS,1,0.27169426828646237,0,Low Risk,Regular engagement and loyalty benefits,25,One year,89.05,2177.45,27.17
+9139-WQQDY,1,0.2707178676394035,0,Low Risk,Regular engagement and loyalty benefits,49,One year,100.45,4941.8,27.07
+4075-JFPGR,0,0.26954176844986966,0,Low Risk,Regular engagement and loyalty benefits,51,One year,93.5,4619.55,26.95
+9107-UKCKY,0,0.2681521758180828,0,Low Risk,Regular engagement and loyalty benefits,61,One year,79.8,4914.8,26.82
+2758-RNWXS,0,0.267980264087249,0,Low Risk,Regular engagement and loyalty benefits,35,One year,89.2,3251.3,26.8
+2843-CQMEG,0,0.2674065491686536,0,Low Risk,Regular engagement and loyalty benefits,24,Month-to-month,49.7,1218.25,26.74
+6036-TTFYU,0,0.26293131879306686,0,Low Risk,Regular engagement and loyalty benefits,16,Month-to-month,19.6,314.45,26.29
+2839-RFSQE,1,0.2627902671036131,0,Low Risk,Regular engagement and loyalty benefits,2,Month-to-month,20.65,38.7,26.28
+4504-YOULA,0,0.2613378749038777,0,Low Risk,Regular engagement and loyalty benefits,35,Month-to-month,59.45,2136.9,26.13
+4365-MSDYN,0,0.26129001658710965,0,Low Risk,Regular engagement and loyalty benefits,8,Month-to-month,19.55,161.15,26.13
+7074-STDCN,0,0.26123499546610884,0,Low Risk,Regular engagement and loyalty benefits,39,Month-to-month,40.6,1494.5,26.12
+9364-YKUVW,0,0.26076838393267254,0,Low Risk,Regular engagement and loyalty benefits,15,Month-to-month,19.8,309.4,26.08
+3099-OONVS,0,0.26003188832022345,0,Low Risk,Regular engagement and loyalty benefits,25,Month-to-month,54.3,1296.8,26.0
+0723-VSOBE,0,0.25929625397276923,0,Low Risk,Regular engagement and loyalty benefits,45,One year,34.2,1596.6,25.93
+0678-RLHVP,0,0.25840907240875316,0,Low Risk,Regular engagement and loyalty benefits,53,Two year,105.55,5682.25,25.84
+5027-YOCXN,0,0.25523507330994144,0,Low Risk,Regular engagement and loyalty benefits,51,One year,110.05,5686.4,25.52
+1004-NOZNR,0,0.25462876025786313,0,Low Risk,Regular engagement and loyalty benefits,56,One year,94.8,5264.3,25.46
+5949-HGVJL,0,0.2542162932853195,0,Low Risk,Regular engagement and loyalty benefits,26,Month-to-month,73.05,1959.5,25.42
+3391-JSQEW,0,0.2534021869157498,0,Low Risk,Regular engagement and loyalty benefits,40,Month-to-month,50.15,2058.5,25.34
+1376-HHBDV,0,0.2523129993210403,0,Low Risk,Regular engagement and loyalty benefits,30,Month-to-month,48.8,1536.75,25.23
+5574-NXZIU,0,0.2521583053095537,0,Low Risk,Regular engagement and loyalty benefits,63,Two year,109.2,7049.75,25.22
+2159-TURXX,0,0.2521454486313853,0,Low Risk,Regular engagement and loyalty benefits,5,Month-to-month,20.05,95.55,25.21
+1045-LTCYT,0,0.2512642584039707,0,Low Risk,Regular engagement and loyalty benefits,8,Month-to-month,21.05,139.75,25.13
+5144-PQCDZ,0,0.2512626567239728,0,Low Risk,Regular engagement and loyalty benefits,4,Month-to-month,19.95,59.25,25.13
+3675-EQOZA,0,0.2512475194277148,0,Low Risk,Regular engagement and loyalty benefits,5,Month-to-month,20.65,93.55,25.12
+1735-XMJVH,0,0.250704954112325,0,Low Risk,Regular engagement and loyalty benefits,8,Month-to-month,19.35,152.6,25.07
+4770-QAZXN,0,0.2484953271722636,0,Low Risk,Regular engagement and loyalty benefits,13,Month-to-month,19.45,232.1,24.85
+2908-ZTPNF,0,0.24623131289012523,0,Low Risk,Regular engagement and loyalty benefits,36,Month-to-month,34.85,1267.2,24.62
+8970-ANWXO,0,0.24589682780918093,0,Low Risk,Regular engagement and loyalty benefits,23,One year,73.75,1756.6,24.59
+4800-CZMPC,1,0.24500062828916003,0,Low Risk,Regular engagement and loyalty benefits,48,One year,103.25,5037.55,24.5
+3682-YEUWS,0,0.24465307944288753,0,Low Risk,Regular engagement and loyalty benefits,10,Month-to-month,24.4,253.9,24.47
+1087-UDSIH,1,0.24448868452955735,0,Low Risk,Regular engagement and loyalty benefits,3,Month-to-month,19.6,59.75,24.45
+1097-FSPVW,0,0.2443822745282895,0,Low Risk,Regular engagement and loyalty benefits,42,Month-to-month,54.55,2455.05,24.44
+9402-ROUMJ,0,0.24435146628323076,0,Low Risk,Regular engagement and loyalty benefits,67,One year,100.25,6689.0,24.44
+0690-SRQID,0,0.243916928078213,0,Low Risk,Regular engagement and loyalty benefits,4,Month-to-month,19.65,67.55,24.39
+0076-LVEPS,0,0.24335931620150172,0,Low Risk,Regular engagement and loyalty benefits,29,Month-to-month,45.0,1242.45,24.34
+8433-WPJTV,0,0.24272315475598077,0,Low Risk,Regular engagement and loyalty benefits,65,One year,103.9,6767.1,24.27
+0733-VUNUW,1,0.24201928317902824,0,Low Risk,Regular engagement and loyalty benefits,24,Month-to-month,55.65,1400.55,24.2
+7740-BTPUX,0,0.2407650995161001,0,Low Risk,Regular engagement and loyalty benefits,55,Two year,113.6,6292.7,24.08
+9496-IVVRP,0,0.24073726018740976,0,Low Risk,Regular engagement and loyalty benefits,11,Month-to-month,51.0,581.7,24.07
+0345-XMMUG,0,0.23960577854707654,0,Low Risk,Regular engagement and loyalty benefits,46,Two year,108.9,4854.3,23.96
+0447-BEMNG,1,0.23954082344452207,0,Low Risk,Regular engagement and loyalty benefits,48,Month-to-month,45.3,2145.0,23.95
+2096-XOTMO,0,0.23710760333603706,0,Low Risk,Regular engagement and loyalty benefits,16,Month-to-month,19.35,275.9,23.71
+3179-GBRWV,0,0.2329780459883,0,Low Risk,Regular engagement and loyalty benefits,21,Month-to-month,64.95,1339.8,23.3
+0623-EJQEG,0,0.23259982749733535,0,Low Risk,Regular engagement and loyalty benefits,65,One year,93.55,6069.25,23.26
+7666-WKRON,1,0.2324991197849108,0,Low Risk,Regular engagement and loyalty benefits,39,Two year,80.45,3201.55,23.25
+0895-LMRSF,0,0.2323618031684986,0,Low Risk,Regular engagement and loyalty benefits,23,One year,64.9,1509.8,23.24
+5555-RNPGT,0,0.2314179244334421,0,Low Risk,Regular engagement and loyalty benefits,10,Month-to-month,24.8,223.9,23.14
+5445-PZWGX,1,0.23128132956675873,0,Low Risk,Regular engagement and loyalty benefits,62,One year,102.0,6529.25,23.13
+9391-DXGGG,0,0.23112415173892756,0,Low Risk,Regular engagement and loyalty benefits,44,One year,89.15,3990.75,23.11
+4489-SNOJF,1,0.23045464277435054,0,Low Risk,Regular engagement and loyalty benefits,35,Month-to-month,72.25,2568.55,23.05
+0670-ANMUU,0,0.23030535678609762,0,Low Risk,Regular engagement and loyalty benefits,71,One year,97.65,6687.85,23.03
+7531-GQHME,0,0.2291710363223701,0,Low Risk,Regular engagement and loyalty benefits,12,Month-to-month,20.05,265.45,22.92
+2091-MJTFX,1,0.2282492933945265,0,Low Risk,Regular engagement and loyalty benefits,30,Month-to-month,51.2,1561.5,22.82
+4011-ARPHK,0,0.22675311102325543,0,Low Risk,Regular engagement and loyalty benefits,27,Month-to-month,50.35,1411.35,22.68
+9972-VAFJJ,0,0.22600211335561277,0,Low Risk,Regular engagement and loyalty benefits,53,One year,94.0,4871.45,22.6
+9367-TCUYN,0,0.22582449381521108,0,Low Risk,Regular engagement and loyalty benefits,12,Month-to-month,20.1,223.6,22.58
+2023-VQFDL,0,0.224908314619382,0,Low Risk,Regular engagement and loyalty benefits,18,Month-to-month,19.0,348.8,22.49
+7750-EYXWZ,0,0.22311460845551281,0,Low Risk,Regular engagement and loyalty benefits,12,One year,60.65,743.3,22.31
+6661-EIPZC,0,0.22297304821679076,0,Low Risk,Regular engagement and loyalty benefits,48,Month-to-month,29.5,1423.05,22.3
+7502-BNYGS,0,0.22284460003958667,0,Low Risk,Regular engagement and loyalty benefits,46,Month-to-month,69.1,3168.0,22.28
+5396-IZEPB,0,0.22211854241794568,0,Low Risk,Regular engagement and loyalty benefits,9,Month-to-month,19.7,180.7,22.21
+7410-KTVFV,1,0.22039579552865682,0,Low Risk,Regular engagement and loyalty benefits,18,Month-to-month,49.55,878.35,22.04
+4423-JWZJN,0,0.21937258149006109,0,Low Risk,Regular engagement and loyalty benefits,64,One year,90.25,5629.15,21.94
+6345-ULYRW,1,0.21919630744796403,0,Low Risk,Regular engagement and loyalty benefits,44,One year,88.4,3912.9,21.92
+9644-KVCNC,0,0.21916274748951065,0,Low Risk,Regular engagement and loyalty benefits,66,One year,92.15,6056.9,21.92
+0665-XHDJU,0,0.2181483767964542,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,99.4,7285.7,21.81
+5014-WUQMG,0,0.2175686964388829,0,Low Risk,Regular engagement and loyalty benefits,47,One year,96.1,4391.45,21.76
+7629-WFGLW,0,0.2173765199963867,0,Low Risk,Regular engagement and loyalty benefits,56,One year,95.65,5471.75,21.74
+9289-LBQVU,0,0.2171023419913131,0,Low Risk,Regular engagement and loyalty benefits,64,One year,70.15,4480.7,21.71
+1936-CZAKF,0,0.21710054780023158,0,Low Risk,Regular engagement and loyalty benefits,49,Two year,49.65,2409.9,21.71
+4369-NYSCF,0,0.21700161105538965,0,Low Risk,Regular engagement and loyalty benefits,56,One year,75.75,4284.65,21.7
+4830-FAXFM,0,0.2158026358016318,0,Low Risk,Regular engagement and loyalty benefits,19,Month-to-month,24.1,439.2,21.58
+7931-PXHFC,1,0.21429208859236432,0,Low Risk,Regular engagement and loyalty benefits,38,One year,62.3,2354.8,21.43
+0347-UBKUZ,0,0.2125181562783611,0,Low Risk,Regular engagement and loyalty benefits,15,Month-to-month,19.9,320.45,21.25
+7839-NUIAA,0,0.21242773519154232,0,Low Risk,Regular engagement and loyalty benefits,61,Month-to-month,59.8,3641.5,21.24
+2659-VXMWZ,1,0.21222358879901454,0,Low Risk,Regular engagement and loyalty benefits,67,One year,111.3,7482.1,21.22
+3694-GLTJM,0,0.21197505125878766,0,Low Risk,Regular engagement and loyalty benefits,5,Month-to-month,19.65,92.05,21.2
+3594-IVHJZ,0,0.2098720427041384,0,Low Risk,Regular engagement and loyalty benefits,2,Month-to-month,20.45,42.45,20.99
+9092-GDZKO,0,0.2091506365209592,0,Low Risk,Regular engagement and loyalty benefits,22,Month-to-month,24.85,493.4,20.92
+4785-QRJHC,1,0.20909760440054304,0,Low Risk,Regular engagement and loyalty benefits,46,One year,59.9,2816.65,20.91
+0487-VVUVK,0,0.20797976612428024,0,Low Risk,Regular engagement and loyalty benefits,25,Month-to-month,19.15,477.6,20.8
+9480-BQJEI,0,0.20725617503155236,0,Low Risk,Regular engagement and loyalty benefits,62,One year,92.3,5731.45,20.73
+6047-SUHPR,0,0.20643139267190125,0,Low Risk,Regular engagement and loyalty benefits,39,One year,59.8,2343.85,20.64
+8782-NUUOL,0,0.206389910636995,0,Low Risk,Regular engagement and loyalty benefits,60,One year,79.0,4801.1,20.64
+3780-DDGSE,0,0.2057622097073743,0,Low Risk,Regular engagement and loyalty benefits,35,Month-to-month,76.05,2747.2,20.58
+5955-EPOAZ,0,0.204605096926827,0,Low Risk,Regular engagement and loyalty benefits,6,Month-to-month,20.95,109.5,20.46
+1247-QBVSH,0,0.20270249122465317,0,Low Risk,Regular engagement and loyalty benefits,43,Month-to-month,50.2,2169.4,20.27
+7016-NVRIC,0,0.20255414836526178,0,Low Risk,Regular engagement and loyalty benefits,29,One year,90.1,2656.7,20.26
+1264-FUHCX,0,0.2012183249852669,0,Low Risk,Regular engagement and loyalty benefits,49,One year,56.3,2780.6,20.12
+1936-UAFEH,0,0.20049271954664213,0,Low Risk,Regular engagement and loyalty benefits,68,Two year,110.25,7279.35,20.05
+7923-IYJWY,0,0.2002063162823012,0,Low Risk,Regular engagement and loyalty benefits,67,Two year,116.1,7839.85,20.02
+2748-MYRVK,1,0.1998178463946874,0,Low Risk,Regular engagement and loyalty benefits,63,One year,99.9,6137.0,19.98
+4072-IPYLT,0,0.19920118040721513,0,Low Risk,Regular engagement and loyalty benefits,36,Month-to-month,51.05,1815.0,19.92
+9138-EFSMO,0,0.1990460380947767,0,Low Risk,Regular engagement and loyalty benefits,26,One year,78.95,2034.25,19.9
+5469-CTCWN,1,0.19864599788870735,0,Low Risk,Regular engagement and loyalty benefits,61,One year,106.0,6547.7,19.86
+8246-SHFGA,0,0.19843027100409785,0,Low Risk,Regular engagement and loyalty benefits,17,Month-to-month,21.1,385.55,19.84
+1265-HVPZB,0,0.19752364778283835,0,Low Risk,Regular engagement and loyalty benefits,59,One year,66.4,3958.2,19.75
+1140-UKVZG,0,0.1947710859572979,0,Low Risk,Regular engagement and loyalty benefits,17,Month-to-month,24.8,475.25,19.48
+3597-YASZG,0,0.19445930213162055,0,Low Risk,Regular engagement and loyalty benefits,70,Two year,104.45,7349.35,19.45
+8041-TMEID,0,0.19382041483326348,0,Low Risk,Regular engagement and loyalty benefits,63,Two year,108.5,6991.9,19.38
+2732-ISEZX,0,0.19356376154328772,0,Low Risk,Regular engagement and loyalty benefits,5,Month-to-month,20.5,104.3,19.36
+3523-QRQLL,1,0.1931688295495748,0,Low Risk,Regular engagement and loyalty benefits,22,One year,69.5,1498.2,19.32
+4531-AUZNK,0,0.19232381606682938,0,Low Risk,Regular engagement and loyalty benefits,51,One year,95.15,5000.05,19.23
+9955-QOPOY,0,0.1921714287230074,0,Low Risk,Regular engagement and loyalty benefits,69,One year,60.8,4263.4,19.22
+5240-CAOYT,0,0.19181125894803264,0,Low Risk,Regular engagement and loyalty benefits,57,Month-to-month,87.55,4884.85,19.18
+3096-WPXBT,0,0.19122425178462962,0,Low Risk,Regular engagement and loyalty benefits,61,One year,100.7,6018.65,19.12
+0484-JPBRU,0,0.19066188166507772,0,Low Risk,Regular engagement and loyalty benefits,41,Month-to-month,25.25,996.45,19.07
+8261-GWDBQ,0,0.1897843996812231,0,Low Risk,Regular engagement and loyalty benefits,60,Two year,116.05,6925.9,18.98
+0020-INWCK,0,0.18904949826209289,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,95.75,6849.4,18.9
+2789-CZANW,0,0.18898562875390051,0,Low Risk,Regular engagement and loyalty benefits,64,Two year,110.3,6997.3,18.9
+4419-UJMUS,0,0.18874257732941233,0,Low Risk,Regular engagement and loyalty benefits,69,Two year,99.35,6856.45,18.87
+2085-JVGAD,0,0.186855059191977,0,Low Risk,Regular engagement and loyalty benefits,37,Month-to-month,20.35,697.65,18.69
+0080-EMYVY,0,0.1859773908233906,0,Low Risk,Regular engagement and loyalty benefits,14,One year,51.45,727.85,18.6
+0744-GKNGE,0,0.1845749439749752,0,Low Risk,Regular engagement and loyalty benefits,64,Month-to-month,86.8,5327.25,18.46
+2466-NEJOJ,0,0.1845511325737458,0,Low Risk,Regular engagement and loyalty benefits,8,Month-to-month,19.65,169.75,18.46
+4189-NAKJS,0,0.18364320594024328,0,Low Risk,Regular engagement and loyalty benefits,26,One year,51.55,1295.4,18.36
+7036-ZZKBD,0,0.1834308558493173,0,Low Risk,Regular engagement and loyalty benefits,31,Month-to-month,66.4,2019.8,18.34
+6682-QJDGB,1,0.18279773495058368,0,Low Risk,Regular engagement and loyalty benefits,40,Month-to-month,55.25,2139.2,18.28
+4353-HYOJD,0,0.1824609513077273,0,Low Risk,Regular engagement and loyalty benefits,27,Month-to-month,49.85,1336.15,18.25
+1222-LRYKO,0,0.18243990138424102,0,Low Risk,Regular engagement and loyalty benefits,6,Month-to-month,26.35,184.05,18.24
+5269-NRGDP,0,0.18171428502775808,0,Low Risk,Regular engagement and loyalty benefits,42,One year,73.15,3088.25,18.17
+4701-AHWMW,1,0.18119735146465854,0,Low Risk,Regular engagement and loyalty benefits,55,Month-to-month,54.55,2978.3,18.12
+4049-ZPALD,0,0.17899796367235357,0,Low Risk,Regular engagement and loyalty benefits,64,Two year,99.0,6375.8,17.9
+5524-KHNJP,0,0.1788136540242548,0,Low Risk,Regular engagement and loyalty benefits,33,One year,74.75,2453.3,17.88
+2930-UOTMB,1,0.17848127101453845,0,Low Risk,Regular engagement and loyalty benefits,31,Month-to-month,65.25,1994.3,17.85
+4002-BQWPQ,0,0.1783699076026085,0,Low Risk,Regular engagement and loyalty benefits,25,Month-to-month,81.75,2028.8,17.84
+4644-PIZRT,0,0.17723739421126405,0,Low Risk,Regular engagement and loyalty benefits,17,One year,70.35,1201.65,17.72
+3156-QLHBO,0,0.17713891283934227,0,Low Risk,Regular engagement and loyalty benefits,2,Month-to-month,19.25,48.35,17.71
+9039-RBEEE,1,0.17637373525156064,0,Low Risk,Regular engagement and loyalty benefits,39,Month-to-month,48.95,1880.85,17.64
+0377-JBKKT,0,0.17624667694612342,0,Low Risk,Regular engagement and loyalty benefits,22,Month-to-month,57.95,1271.8,17.62
+9025-ZRPVR,1,0.1752071686064639,0,Low Risk,Regular engagement and loyalty benefits,9,Month-to-month,18.95,185.6,17.52
+7971-HLVXI,0,0.17359662144638288,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,84.5,6130.85,17.36
+8963-MQVYN,0,0.173482096510134,0,Low Risk,Regular engagement and loyalty benefits,22,Month-to-month,20.55,469.85,17.35
+0083-PIVIK,0,0.17219142946933239,0,Low Risk,Regular engagement and loyalty benefits,64,One year,81.25,5567.55,17.22
+8869-LIHMK,0,0.17082574455786548,0,Low Risk,Regular engagement and loyalty benefits,64,Two year,115.1,7334.05,17.08
+6303-KFWSL,0,0.16986439525345914,0,Low Risk,Regular engagement and loyalty benefits,29,One year,55.25,1620.2,16.99
+7781-EWARA,0,0.16949111088013757,0,Low Risk,Regular engagement and loyalty benefits,70,One year,60.35,4138.7,16.95
+5268-DSMNQ,0,0.16941847799373577,0,Low Risk,Regular engagement and loyalty benefits,62,One year,97.95,5936.55,16.94
+3594-UVONA,1,0.16919165308881057,0,Low Risk,Regular engagement and loyalty benefits,35,One year,85.95,3110.1,16.92
+6993-YCOBK,0,0.16913085612896375,0,Low Risk,Regular engagement and loyalty benefits,60,Two year,110.6,6586.85,16.91
+4759-PXTAN,0,0.16837580497185492,0,Low Risk,Regular engagement and loyalty benefits,59,One year,80.1,4693.2,16.84
+1707-HABPF,0,0.16821161064213844,0,Low Risk,Regular engagement and loyalty benefits,46,One year,91.3,4126.35,16.82
+5447-VYTKW,0,0.16814017315126517,0,Low Risk,Regular engagement and loyalty benefits,27,Month-to-month,53.45,1461.45,16.81
+7690-KPNCU,0,0.1667732195810017,0,Low Risk,Regular engagement and loyalty benefits,64,One year,73.05,4688.65,16.68
+6617-WLBQC,0,0.16447192762213841,0,Low Risk,Regular engagement and loyalty benefits,23,One year,81.85,1810.85,16.45
+1345-GKDZZ,0,0.16405605312299687,0,Low Risk,Regular engagement and loyalty benefits,6,Month-to-month,19.55,128.6,16.41
+0824-VWDPO,0,0.16358265395118113,0,Low Risk,Regular engagement and loyalty benefits,45,One year,96.75,4442.75,16.36
+6016-LVTJQ,0,0.16275147356027303,0,Low Risk,Regular engagement and loyalty benefits,34,Month-to-month,20.65,716.4,16.28
+0835-JKADZ,0,0.16226915667258726,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,111.25,7984.15,16.23
+6752-APNJL,0,0.1622299353531978,0,Low Risk,Regular engagement and loyalty benefits,42,Month-to-month,54.5,2301.15,16.22
+7105-MXJLL,0,0.16152585282820822,0,Low Risk,Regular engagement and loyalty benefits,26,One year,60.7,1597.4,16.15
+4626-OZDTJ,0,0.16101810807945746,0,Low Risk,Regular engagement and loyalty benefits,51,One year,78.65,3950.85,16.1
+5049-MUBWG,0,0.1595066210289973,0,Low Risk,Regular engagement and loyalty benefits,26,One year,75.0,1908.35,15.95
+9209-NWPGU,0,0.1594078344646365,0,Low Risk,Regular engagement and loyalty benefits,44,One year,65.4,2774.55,15.94
+6967-PEJLL,0,0.15928010971286888,0,Low Risk,Regular engagement and loyalty benefits,37,One year,40.2,1525.35,15.93
+1150-WFARN,1,0.15899208136198786,0,Low Risk,Regular engagement and loyalty benefits,67,Two year,108.75,7156.2,15.9
+3696-XRIEN,0,0.15839458599557665,0,Low Risk,Regular engagement and loyalty benefits,50,One year,82.5,4179.1,15.84
+6732-FZUGP,0,0.15827368759660163,0,Low Risk,Regular engagement and loyalty benefits,47,One year,94.9,4615.25,15.83
+7520-HQWJU,0,0.1561265611844836,0,Low Risk,Regular engagement and loyalty benefits,66,Month-to-month,67.45,4508.65,15.61
+9114-AAFQH,0,0.1555870676289212,0,Low Risk,Regular engagement and loyalty benefits,48,One year,65.65,3094.65,15.56
+3506-OVLKD,0,0.1550765331100696,0,Low Risk,Regular engagement and loyalty benefits,35,One year,26.2,954.9,15.51
+6322-HRPFA,0,0.15217219851240224,0,Low Risk,Regular engagement and loyalty benefits,49,Month-to-month,59.6,2970.3,15.22
+3551-GAEGL,0,0.15214926632918047,0,Low Risk,Regular engagement and loyalty benefits,34,One year,30.4,938.65,15.21
+0134-XWXCE,0,0.15122122418414347,0,Low Risk,Regular engagement and loyalty benefits,44,One year,74.85,3268.05,15.12
+9586-JGQKH,0,0.15048897587105395,0,Low Risk,Regular engagement and loyalty benefits,64,Two year,105.4,6794.75,15.05
+9174-IHETN,0,0.15023636144456393,0,Low Risk,Regular engagement and loyalty benefits,50,Two year,70.35,3533.6,15.02
+5832-EXGTT,0,0.1501702126822392,0,Low Risk,Regular engagement and loyalty benefits,29,Month-to-month,60.2,1834.15,15.02
+8929-KSWIH,0,0.1501629486480246,0,Low Risk,Regular engagement and loyalty benefits,25,Two year,99.3,2513.5,15.02
+8042-RNLKO,0,0.14984989610448093,0,Low Risk,Regular engagement and loyalty benefits,66,One year,25.45,1699.15,14.98
+9592-ERDKV,0,0.1494494706843473,0,Low Risk,Regular engagement and loyalty benefits,37,One year,79.25,2911.8,14.94
+8097-OMULG,0,0.14917863288612535,0,Low Risk,Regular engagement and loyalty benefits,59,One year,76.75,4541.9,14.92
+9933-QRGTX,0,0.14769253383269004,0,Low Risk,Regular engagement and loyalty benefits,60,Two year,97.2,5611.75,14.77
+6734-FQAJX,0,0.14742991884068654,0,Low Risk,Regular engagement and loyalty benefits,67,Two year,105.05,7171.7,14.74
+8318-LCNBW,0,0.14733025447458892,0,Low Risk,Regular engagement and loyalty benefits,35,One year,53.15,1930.9,14.73
+1171-TYKUR,0,0.14729912840518986,0,Low Risk,Regular engagement and loyalty benefits,47,Month-to-month,25.4,1139.2,14.73
+9378-FXTIZ,1,0.14683759001916008,0,Low Risk,Regular engagement and loyalty benefits,54,One year,70.15,3715.65,14.68
+3374-PZLXD,0,0.14674854049567979,0,Low Risk,Regular engagement and loyalty benefits,34,Month-to-month,19.7,675.6,14.67
+2408-PSJVE,0,0.145357781522241,0,Low Risk,Regular engagement and loyalty benefits,44,Month-to-month,61.9,2924.05,14.54
+1915-OAKWD,0,0.14519566694075692,0,Low Risk,Regular engagement and loyalty benefits,16,One year,19.3,360.35,14.52
+6500-JVEGC,0,0.14496048068861062,0,Low Risk,Regular engagement and loyalty benefits,68,One year,101.35,7110.75,14.5
+7762-ONLJY,0,0.14484929154208895,0,Low Risk,Regular engagement and loyalty benefits,6,One year,19.7,94.45,14.48
+1474-JUWSM,0,0.1440369104923313,0,Low Risk,Regular engagement and loyalty benefits,58,One year,68.4,3972.25,14.4
+6766-HFKLA,0,0.14359901718920112,0,Low Risk,Regular engagement and loyalty benefits,56,Two year,103.2,5744.35,14.36
+0975-UYDTX,0,0.14335560436195838,0,Low Risk,Regular engagement and loyalty benefits,26,One year,90.1,2312.55,14.34
+9359-JANWS,0,0.14261371371412454,0,Low Risk,Regular engagement and loyalty benefits,65,Two year,58.9,3857.1,14.26
+6941-KXRRV,0,0.14242997557821913,0,Low Risk,Regular engagement and loyalty benefits,48,One year,58.95,2789.7,14.24
+7706-DZNKK,0,0.14118832859074718,0,Low Risk,Regular engagement and loyalty benefits,11,Month-to-month,20.45,237.3,14.12
+6194-HBGQN,0,0.1408828801743154,0,Low Risk,Regular engagement and loyalty benefits,51,One year,81.15,4126.2,14.09
+6754-WKSHP,0,0.14021151427138473,0,Low Risk,Regular engagement and loyalty benefits,30,One year,25.35,723.3,14.02
+7432-FFVAR,0,0.1401238869499903,0,Low Risk,Regular engagement and loyalty benefits,46,One year,90.95,4236.6,14.01
+3190-FZATL,0,0.13975308275129958,0,Low Risk,Regular engagement and loyalty benefits,14,Month-to-month,19.95,268.4,13.98
+4501-UYKBC,0,0.13814315787679715,0,Low Risk,Regular engagement and loyalty benefits,46,One year,69.1,3255.35,13.81
+7654-YWJUF,0,0.13637758772827813,0,Low Risk,Regular engagement and loyalty benefits,43,One year,84.25,3539.25,13.64
+0835-DUUIQ,0,0.13491486883953618,0,Low Risk,Regular engagement and loyalty benefits,24,One year,21.05,531.55,13.49
+9391-TTOYH,0,0.1345997265035797,0,Low Risk,Regular engagement and loyalty benefits,23,Month-to-month,19.5,470.2,13.46
+4223-BKEOR,0,0.1342878901743685,0,Low Risk,Regular engagement and loyalty benefits,21,One year,64.85,1336.8,13.43
+9152-AMKAK,0,0.13311837175696387,0,Low Risk,Regular engagement and loyalty benefits,6,Two year,80.25,493.4,13.31
+9086-YJYXS,0,0.13265408099297843,0,Low Risk,Regular engagement and loyalty benefits,34,One year,77.2,2753.8,13.27
+9762-YAQAA,0,0.13243279153050136,0,Low Risk,Regular engagement and loyalty benefits,39,One year,81.4,3213.75,13.24
+0519-DRGTI,0,0.13167182396760962,0,Low Risk,Regular engagement and loyalty benefits,20,Month-to-month,20.35,442.6,13.17
+4806-DXQCE,0,0.1312272283549635,0,Low Risk,Regular engagement and loyalty benefits,70,Two year,113.65,7714.65,13.12
+6620-HVDUJ,0,0.13104341547944767,0,Low Risk,Regular engagement and loyalty benefits,24,Month-to-month,60.45,1440.75,13.1
+2129-ALKBS,0,0.13074071843088356,0,Low Risk,Regular engagement and loyalty benefits,40,Month-to-month,26.2,1077.5,13.07
+1036-GUDCL,0,0.12861560019888954,0,Low Risk,Regular engagement and loyalty benefits,60,Month-to-month,79.05,4663.4,12.86
+9860-LISIZ,0,0.12803936805602797,0,Low Risk,Regular engagement and loyalty benefits,34,Month-to-month,20.35,673.2,12.8
+8406-LNMHF,0,0.1271581589470759,0,Low Risk,Regular engagement and loyalty benefits,59,One year,82.95,4903.15,12.72
+4999-IEZLT,0,0.12660298688528007,0,Low Risk,Regular engagement and loyalty benefits,66,One year,29.45,1983.15,12.66
+2483-XSSMZ,0,0.12617145429696935,0,Low Risk,Regular engagement and loyalty benefits,39,One year,47.85,1886.4,12.62
+1303-SRDOK,0,0.12602795368918193,0,Low Risk,Regular engagement and loyalty benefits,55,Two year,69.05,3842.6,12.6
+5149-QYTTU,0,0.12561839208893796,0,Low Risk,Regular engagement and loyalty benefits,71,One year,95.15,6770.85,12.56
+3229-USWAR,0,0.12540557835320806,0,Low Risk,Regular engagement and loyalty benefits,34,One year,79.95,2727.3,12.54
+1929-ZCBHE,0,0.12421871046321256,0,Low Risk,Regular engagement and loyalty benefits,47,One year,40.3,1794.8,12.42
+3933-DQPWX,0,0.12355769030517072,0,Low Risk,Regular engagement and loyalty benefits,50,Two year,39.7,1932.75,12.36
+2364-UFROM,0,0.12354735567614517,0,Low Risk,Regular engagement and loyalty benefits,30,One year,70.4,2044.75,12.35
+5975-BAICR,0,0.12345718230265358,0,Low Risk,Regular engagement and loyalty benefits,36,One year,63.7,2188.5,12.35
+8821-KVZKQ,0,0.12337855799201897,0,Low Risk,Regular engagement and loyalty benefits,70,One year,58.4,4113.15,12.34
+1744-JHKYS,0,0.12268200415699292,0,Low Risk,Regular engagement and loyalty benefits,34,Month-to-month,24.7,780.2,12.27
+9040-KZVWO,0,0.1222226824681278,0,Low Risk,Regular engagement and loyalty benefits,26,One year,75.5,2018.1,12.22
+5120-ZBLAI,0,0.12212806592577932,0,Low Risk,Regular engagement and loyalty benefits,50,One year,75.7,3876.2,12.21
+4174-LPGTI,1,0.12208310719379778,0,Low Risk,Regular engagement and loyalty benefits,41,One year,66.5,2728.6,12.21
+4803-LBYPN,0,0.12191879296071141,0,Low Risk,Regular engagement and loyalty benefits,34,Month-to-month,20.8,635.9,12.19
+9648-BCHKM,0,0.1210465372683436,0,Low Risk,Regular engagement and loyalty benefits,18,Two year,24.65,471.35,12.1
+6048-UWKAL,0,0.12083578356189177,0,Low Risk,Regular engagement and loyalty benefits,69,Two year,105.4,6998.95,12.08
+1090-ESELR,0,0.11975927385079546,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,105.5,7611.55,11.98
+9046-JBFWA,0,0.11941189182598203,0,Low Risk,Regular engagement and loyalty benefits,27,Month-to-month,19.15,537.35,11.94
+1982-FEBTD,0,0.11928232440912095,0,Low Risk,Regular engagement and loyalty benefits,23,Two year,25.6,514.75,11.93
+7872-BAAZR,0,0.11764450561663932,0,Low Risk,Regular engagement and loyalty benefits,53,One year,19.55,1007.9,11.76
+7527-QNRUS,0,0.1174753929732682,0,Low Risk,Regular engagement and loyalty benefits,17,Two year,25.15,412.6,11.75
+2434-EEVDB,0,0.11678697065539058,0,Low Risk,Regular engagement and loyalty benefits,64,Two year,94.6,5948.7,11.68
+8409-WQJUX,0,0.11656908973440813,0,Low Risk,Regular engagement and loyalty benefits,25,One year,54.2,1423.15,11.66
+8204-TIFGJ,0,0.1145366522440946,0,Low Risk,Regular engagement and loyalty benefits,23,Month-to-month,20.3,470.6,11.45
+8050-XGRVL,0,0.11383160013063588,0,Low Risk,Regular engagement and loyalty benefits,62,One year,54.75,3425.35,11.38
+2533-QVMSK,1,0.1136182373822565,0,Low Risk,Regular engagement and loyalty benefits,61,Two year,94.1,5638.3,11.36
+2834-JKOOW,0,0.11279855893124466,0,Low Risk,Regular engagement and loyalty benefits,15,One year,45.9,693.45,11.28
+3398-GCPMU,0,0.11270124425201733,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,89.55,6448.85,11.27
+2675-IJRGJ,0,0.11223929850642732,0,Low Risk,Regular engagement and loyalty benefits,53,Two year,19.65,978.0,11.22
+9894-QMIMJ,0,0.11039671590484819,0,Low Risk,Regular engagement and loyalty benefits,23,One year,55.8,1327.85,11.04
+6445-TNRXS,0,0.10987871282694696,0,Low Risk,Regular engagement and loyalty benefits,68,Two year,114.7,7849.85,10.99
+6094-ZIVKX,0,0.10904461175756548,0,Low Risk,Regular engagement and loyalty benefits,68,One year,54.45,3674.95,10.9
+6519-ZHPXP,0,0.10777088792111643,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,108.3,7679.65,10.78
+2546-KZAAT,0,0.10766196189712554,0,Low Risk,Regular engagement and loyalty benefits,52,One year,75.4,3865.45,10.77
+3244-CQPHU,0,0.10719011744577873,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,110.1,7746.7,10.72
+2907-ILJBN,0,0.107047027550114,0,Low Risk,Regular engagement and loyalty benefits,11,One year,20.6,233.9,10.7
+3372-CDXFJ,0,0.10621690026712996,0,Low Risk,Regular engagement and loyalty benefits,13,One year,24.5,343.6,10.62
+5297-MDOIR,0,0.10582848889969658,0,Low Risk,Regular engagement and loyalty benefits,63,One year,81.15,5224.5,10.58
+4039-PIMHX,0,0.10513011306952542,0,Low Risk,Regular engagement and loyalty benefits,49,Two year,49.8,2398.4,10.51
+4304-TSPVK,0,0.10461044495013054,0,Low Risk,Regular engagement and loyalty benefits,68,Two year,114.9,7843.55,10.46
+9565-JSNFM,1,0.10431313331157518,0,Low Risk,Regular engagement and loyalty benefits,38,One year,70.45,2597.6,10.43
+7242-EDTYC,0,0.10402342265548382,0,Low Risk,Regular engagement and loyalty benefits,44,Two year,19.55,819.95,10.4
+0323-XWWTN,0,0.10399774821973887,0,Low Risk,Regular engagement and loyalty benefits,3,Two year,26.4,121.25,10.4
+9796-MVYXX,0,0.10370060450876149,0,Low Risk,Regular engagement and loyalty benefits,14,Two year,39.7,692.35,10.37
+5322-TEUJK,0,0.10253414717659137,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,114.6,8100.25,10.25
+1302-TPUBN,0,0.10240765069011294,0,Low Risk,Regular engagement and loyalty benefits,66,Two year,19.35,1240.8,10.24
+9871-ELEYA,0,0.10210435973207295,0,Low Risk,Regular engagement and loyalty benefits,34,Two year,67.65,2339.3,10.21
+0230-UBYPQ,0,0.10189828002358575,0,Low Risk,Regular engagement and loyalty benefits,63,One year,36.1,2298.9,10.19
+0853-TWRVK,0,0.10178098144387963,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,105.6,7581.5,10.18
+0023-UYUPN,0,0.10170504175235574,0,Low Risk,Regular engagement and loyalty benefits,50,One year,25.2,1306.3,10.17
+6685-GBWJZ,0,0.10111854797556456,0,Low Risk,Regular engagement and loyalty benefits,63,One year,70.8,4448.8,10.11
+6295-OSINB,0,0.10094715620799397,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,109.65,7880.25,10.09
+6061-GWWAV,0,0.09811990099061242,0,Low Risk,Regular engagement and loyalty benefits,41,One year,70.2,2894.55,9.81
+6174-NRBTZ,0,0.09769499058890403,0,Low Risk,Regular engagement and loyalty benefits,46,One year,30.75,1489.3,9.77
+0628-CNQRM,1,0.0976873914399311,0,Low Risk,Regular engagement and loyalty benefits,22,One year,67.5,1544.05,9.77
+7009-PCARS,0,0.09764745162821122,0,Low Risk,Regular engagement and loyalty benefits,55,One year,19.1,1001.5,9.76
+1545-JFUML,0,0.09732078785094612,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,99.0,6994.6,9.73
+8097-VBQTZ,0,0.09657991044114596,0,Low Risk,Regular engagement and loyalty benefits,54,Month-to-month,69.9,3883.3,9.66
+4685-TFLLS,0,0.09623930989066942,0,Low Risk,Regular engagement and loyalty benefits,18,One year,19.8,342.3,9.62
+7569-NMZYQ,0,0.09598133065726727,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,118.75,8672.45,9.6
+6332-FBZRI,0,0.09535250536330374,0,Low Risk,Regular engagement and loyalty benefits,67,One year,69.35,4653.25,9.54
+5327-XOKKY,0,0.09462227359137602,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,73.45,5329.0,9.46
+2348-KCJLT,0,0.09367646466543406,0,Low Risk,Regular engagement and loyalty benefits,44,One year,61.5,2722.2,9.37
+1038-RQOST,0,0.09167707942217483,0,Low Risk,Regular engagement and loyalty benefits,19,Month-to-month,20.6,414.95,9.17
+1834-ABKHQ,0,0.09008430544390171,0,Low Risk,Regular engagement and loyalty benefits,52,One year,50.95,2610.65,9.01
+3301-VKTGC,0,0.08929452025920627,0,Low Risk,Regular engagement and loyalty benefits,68,One year,85.5,5696.6,8.93
+0221-NAUXK,0,0.08894390938788155,0,Low Risk,Regular engagement and loyalty benefits,10,One year,19.95,219.5,8.89
+8259-DZLIZ,0,0.08888057656789768,0,Low Risk,Regular engagement and loyalty benefits,64,One year,53.85,3399.85,8.89
+8309-PPCED,0,0.0878938753448999,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,110.45,7982.5,8.79
+2995-YWTCD,0,0.0867900909222411,0,Low Risk,Regular engagement and loyalty benefits,19,Two year,24.9,467.7,8.68
+8975-SKGRX,0,0.08640170455004961,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,116.1,8310.55,8.64
+7157-SMCFK,0,0.08588839389891664,0,Low Risk,Regular engagement and loyalty benefits,61,Two year,19.75,1124.2,8.59
+0813-TAXXS,0,0.0858081971259362,0,Low Risk,Regular engagement and loyalty benefits,55,Two year,77.8,4323.35,8.58
+5472-CVMDX,0,0.08517642423611967,0,Low Risk,Regular engagement and loyalty benefits,68,Two year,38.9,2719.2,8.52
+3392-EHMNK,0,0.08493704192351764,0,Low Risk,Regular engagement and loyalty benefits,67,Two year,94.1,6302.8,8.49
+4632-XJMEX,0,0.08421631571048557,0,Low Risk,Regular engagement and loyalty benefits,53,One year,62.85,3419.5,8.42
+0412-UCCNP,0,0.08399977519308915,0,Low Risk,Regular engagement and loyalty benefits,55,Two year,59.2,3175.85,8.4
+7445-WMRBW,0,0.08383977574508401,0,Low Risk,Regular engagement and loyalty benefits,48,One year,73.85,3581.4,8.38
+4032-RMHCI,0,0.08380383361350338,0,Low Risk,Regular engagement and loyalty benefits,41,One year,35.4,1412.4,8.38
+5820-PTRYM,0,0.08285259613676438,0,Low Risk,Regular engagement and loyalty benefits,56,One year,68.45,4014.0,8.29
+2282-YGNOR,0,0.0822335668878536,0,Low Risk,Regular engagement and loyalty benefits,29,One year,58.0,1734.5,8.22
+2272-WUSPA,0,0.08178362009344738,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,110.75,7751.7,8.18
+5312-TSZVC,0,0.08167817671005531,0,Low Risk,Regular engagement and loyalty benefits,15,One year,19.65,270.6,8.17
+2205-LPVGL,0,0.08151651930563114,0,Low Risk,Regular engagement and loyalty benefits,58,One year,89.85,5125.75,8.15
+2361-UPSND,0,0.08150707267459499,0,Low Risk,Regular engagement and loyalty benefits,46,One year,70.6,3231.05,8.15
+9674-EHPPG,0,0.08147767740172329,0,Low Risk,Regular engagement and loyalty benefits,46,Two year,40.4,1842.7,8.15
+5313-FPXWG,0,0.0809060038378162,0,Low Risk,Regular engagement and loyalty benefits,51,One year,24.6,1266.4,8.09
+4056-QHXHZ,0,0.08064301769688327,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,107.45,7576.7,8.06
+1972-XMUWV,0,0.08021704815770855,0,Low Risk,Regular engagement and loyalty benefits,65,Two year,59.8,3808.2,8.02
+9867-XOBQA,0,0.07983405678820331,0,Low Risk,Regular engagement and loyalty benefits,21,Two year,53.15,1183.2,7.98
+2324-AALNO,0,0.07898661430926103,0,Low Risk,Regular engagement and loyalty benefits,48,One year,24.55,1203.95,7.9
+8879-XUAHX,0,0.07850780373411105,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,116.25,8564.75,7.85
+9489-JMTTN,0,0.07775844223411428,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,89.75,6595.9,7.78
+1335-MXCSE,0,0.07751438658010797,0,Low Risk,Regular engagement and loyalty benefits,55,Two year,55.25,3119.9,7.75
+1525-LNLOJ,0,0.07743908172341135,0,Low Risk,Regular engagement and loyalty benefits,66,Two year,63.3,4189.7,7.74
+6463-MVYRY,0,0.07633409728780916,0,Low Risk,Regular engagement and loyalty benefits,57,Two year,69.85,4003.0,7.63
+5736-YEJAX,0,0.07622883299280186,0,Low Risk,Regular engagement and loyalty benefits,69,Two year,79.45,5502.55,7.62
+9470-YFUYI,0,0.07621059340146225,0,Low Risk,Regular engagement and loyalty benefits,71,One year,71.0,5012.1,7.62
+8857-CUPFQ,0,0.07589288060483904,0,Low Risk,Regular engagement and loyalty benefits,63,Two year,19.25,1237.65,7.59
+1952-DVVSW,0,0.07495922681557386,0,Low Risk,Regular engagement and loyalty benefits,10,One year,20.1,184.4,7.5
+7524-VRLPL,0,0.07476166544003307,0,Low Risk,Regular engagement and loyalty benefits,69,Two year,74.1,5031.0,7.48
+5829-NVSQN,0,0.07402107301331684,0,Low Risk,Regular engagement and loyalty benefits,23,One year,68.75,1689.45,7.4
+0866-QLSIR,1,0.07343783518274376,0,Low Risk,Regular engagement and loyalty benefits,34,One year,64.4,2088.75,7.34
+8024-XNAFQ,0,0.07336616580887106,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,107.4,7748.75,7.34
+0906-QVPMS,0,0.07321084105358105,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,115.15,8349.45,7.32
+5622-UEJFI,0,0.07194940760931218,0,Low Risk,Regular engagement and loyalty benefits,35,Two year,25.4,949.8,7.19
+2954-PIBKO,0,0.07184034909435703,0,Low Risk,Regular engagement and loyalty benefits,69,Two year,64.15,4254.1,7.18
+2599-CIPQE,0,0.07115603212333348,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,109.3,7782.85,7.12
+4942-VZZOM,0,0.07012370263183815,0,Low Risk,Regular engagement and loyalty benefits,64,One year,66.15,4392.5,7.01
+9194-GFVOI,0,0.06975796042365194,0,Low Risk,Regular engagement and loyalty benefits,42,Two year,84.35,3571.6,6.98
+2606-PKWJB,0,0.06945135097235637,0,Low Risk,Regular engagement and loyalty benefits,40,One year,40.25,1564.05,6.95
+1179-INLAT,0,0.0688899452929718,0,Low Risk,Regular engagement and loyalty benefits,3,One year,19.45,69.25,6.89
+2040-XBAVJ,0,0.06873090685140187,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,114.45,8100.55,6.87
+5126-RCXYW,0,0.06816824582613154,0,Low Risk,Regular engagement and loyalty benefits,54,Two year,46.0,2424.05,6.82
+6598-RFFVI,1,0.06800968643035998,0,Low Risk,Regular engagement and loyalty benefits,2,One year,19.3,28.3,6.8
+9814-AOUDH,0,0.06744731483946224,0,Low Risk,Regular engagement and loyalty benefits,53,Two year,19.5,1050.5,6.74
+4464-JCOLN,1,0.0672427715687126,0,Low Risk,Regular engagement and loyalty benefits,2,One year,19.85,35.9,6.72
+1074-WVEVG,0,0.06642771949192032,0,Low Risk,Regular engagement and loyalty benefits,59,One year,20.35,1267.0,6.64
+1043-UXOVO,0,0.06586440082642991,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,113.15,7993.3,6.59
+3021-VLNRJ,0,0.06463632462092332,0,Low Risk,Regular engagement and loyalty benefits,50,One year,70.8,3478.15,6.46
+1775-KWJKQ,0,0.06386934444936872,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,89.85,6562.9,6.39
+5702-KVQRD,0,0.06372977697430957,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,82.55,5832.65,6.37
+7359-WWYJV,0,0.06328039182268771,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,114.45,8375.05,6.33
+3174-AKMAS,0,0.06304916236117585,0,Low Risk,Regular engagement and loyalty benefits,46,Two year,64.2,3009.5,6.3
+5356-KZCKT,0,0.06287417724327442,0,Low Risk,Regular engagement and loyalty benefits,58,Two year,24.45,1513.6,6.29
+3133-PZNSR,0,0.06231602421020261,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,97.75,6991.6,6.23
+6518-KZXCB,0,0.06165479944200265,0,Low Risk,Regular engagement and loyalty benefits,22,Two year,25.25,566.5,6.17
+3108-PCCGG,0,0.061229898061095876,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,84.45,5899.85,6.12
+8869-TORSS,1,0.0612255809715971,0,Low Risk,Regular engagement and loyalty benefits,48,One year,60.35,2896.4,6.12
+6388-TABGU,0,0.061185148253380145,0,Low Risk,Regular engagement and loyalty benefits,62,One year,56.15,3487.95,6.12
+9968-FFVVH,0,0.06093594102995704,0,Low Risk,Regular engagement and loyalty benefits,63,One year,68.8,4111.35,6.09
+5730-DBDSI,0,0.060533119343413516,0,Low Risk,Regular engagement and loyalty benefits,66,Two year,19.7,1253.8,6.05
+0895-LNKRC,0,0.06035467618256531,0,Low Risk,Regular engagement and loyalty benefits,6,One year,19.45,113.5,6.04
+7338-ERIVA,0,0.05973508448461453,0,Low Risk,Regular engagement and loyalty benefits,39,One year,45.05,1790.6,5.97
+2925-VDZHY,0,0.0585863258376985,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,88.7,6501.35,5.86
+3967-KXAPS,0,0.05848588619333919,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,92.3,6719.9,5.85
+4445-KWOKW,0,0.05795721332785795,0,Low Risk,Regular engagement and loyalty benefits,42,One year,60.15,2421.6,5.8
+0121-SNYRK,0,0.05774264011061749,0,Low Risk,Regular engagement and loyalty benefits,50,One year,35.4,1748.9,5.77
+3298-QEICA,0,0.05770800134142786,0,Low Risk,Regular engagement and loyalty benefits,23,Two year,34.6,813.45,5.77
+6810-VCAEX,0,0.05738751091745544,0,Low Risk,Regular engagement and loyalty benefits,47,One year,39.65,1798.65,5.74
+3308-DGHKL,0,0.057306661540903824,0,Low Risk,Regular engagement and loyalty benefits,69,Two year,19.3,1447.9,5.73
+3926-YZVVX,0,0.05688910659018239,0,Low Risk,Regular engagement and loyalty benefits,41,One year,50.05,2029.05,5.69
+8069-RHUXK,0,0.05686943743604295,0,Low Risk,Regular engagement and loyalty benefits,67,Two year,35.7,2545.7,5.69
+3378-AJRAO,0,0.056290602087669346,0,Low Risk,Regular engagement and loyalty benefits,44,One year,24.85,1013.6,5.63
+8166-ZZTFS,1,0.05544580046945214,0,Low Risk,Regular engagement and loyalty benefits,66,Two year,80.55,5265.1,5.54
+4674-HGNUA,0,0.05530660078024121,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,89.9,6457.15,5.53
+6870-ZWMNX,0,0.054918740445670536,0,Low Risk,Regular engagement and loyalty benefits,70,Two year,76.1,5264.25,5.49
+2188-SXWVT,0,0.054788876451559936,0,Low Risk,Regular engagement and loyalty benefits,34,One year,55.0,1885.15,5.48
+8908-SLFCJ,0,0.05397964135721756,0,Low Risk,Regular engagement and loyalty benefits,21,Two year,20.85,435.25,5.4
+3785-KTYSH,0,0.05388751038893776,0,Low Risk,Regular engagement and loyalty benefits,53,Two year,24.6,1279.0,5.39
+6924-TDGMT,0,0.053791158602982954,0,Low Risk,Regular engagement and loyalty benefits,11,One year,20.55,184.95,5.38
+7401-JIXNM,0,0.05374748793645452,0,Low Risk,Regular engagement and loyalty benefits,54,Two year,91.3,4965.0,5.37
+0379-DJQHR,0,0.053601099634601225,0,Low Risk,Regular engagement and loyalty benefits,67,Two year,81.35,5398.6,5.36
+5906-CVLHP,1,0.053249229182454734,0,Low Risk,Regular engagement and loyalty benefits,45,One year,54.15,2319.8,5.32
+8990-YOZLV,0,0.05173169285723331,0,Low Risk,Regular engagement and loyalty benefits,69,Two year,66.9,4577.9,5.17
+5982-PSMKW,0,0.05139742392803148,0,Low Risk,Regular engagement and loyalty benefits,23,Two year,91.1,2198.3,5.14
+6723-CEGQI,0,0.051267609380008725,0,Low Risk,Regular engagement and loyalty benefits,65,Two year,45.25,2933.95,5.13
+6199-IPCAO,0,0.050677272866509304,0,Low Risk,Regular engagement and loyalty benefits,29,Two year,26.1,692.55,5.07
+2138-VFAPZ,0,0.049474596303317436,0,Low Risk,Regular engagement and loyalty benefits,14,Two year,19.7,263.65,4.95
+8292-FRFZQ,0,0.0493074283878381,0,Low Risk,Regular engagement and loyalty benefits,39,One year,41.15,1700.9,4.93
+9258-CNWAC,0,0.04900712544323213,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,113.65,8166.8,4.9
+1619-YWUBB,0,0.048795572530503206,0,Low Risk,Regular engagement and loyalty benefits,68,Two year,24.95,1614.9,4.88
+3521-HTQTV,0,0.048784533285132284,0,Low Risk,Regular engagement and loyalty benefits,34,Two year,26.1,980.35,4.88
+9483-GCPWE,0,0.04875146127770344,0,Low Risk,Regular engagement and loyalty benefits,9,One year,20.1,190.25,4.88
+7399-QHBJS,0,0.04863080641080747,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,66.75,4760.3,4.86
+4102-HLENU,0,0.048612538331298326,0,Low Risk,Regular engagement and loyalty benefits,67,Two year,65.65,4322.85,4.86
+7037-MTYVW,0,0.048153568275131314,0,Low Risk,Regular engagement and loyalty benefits,38,Two year,85.4,3297.0,4.82
+1534-OULXE,0,0.04767536720268464,0,Low Risk,Regular engagement and loyalty benefits,61,One year,49.7,2961.4,4.77
+3161-ONRWK,0,0.046806744290303744,0,Low Risk,Regular engagement and loyalty benefits,60,One year,65.85,3928.3,4.68
+7688-AWMDX,0,0.046643352007633566,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,54.5,3778.2,4.66
+1023-BQXZE,0,0.046621410290580416,0,Low Risk,Regular engagement and loyalty benefits,57,Two year,74.35,4317.35,4.66
+8277-RVRSV,0,0.04618633989318428,0,Low Risk,Regular engagement and loyalty benefits,33,One year,24.15,800.3,4.62
+2325-ZUSFD,1,0.04604589922679856,0,Low Risk,Regular engagement and loyalty benefits,57,One year,70.1,3913.3,4.6
+5271-YNWVR,1,0.04551861866071634,0,Low Risk,Regular engagement and loyalty benefits,68,Two year,113.15,7856.0,4.55
+7073-QETQY,0,0.04544077044953983,0,Low Risk,Regular engagement and loyalty benefits,66,One year,20.35,1359.5,4.54
+9945-PSVIP,0,0.045247695874363385,0,Low Risk,Regular engagement and loyalty benefits,25,Two year,18.7,383.65,4.52
+6292-TOSSS,0,0.04520822278930486,0,Low Risk,Regular engagement and loyalty benefits,50,Two year,24.9,1195.25,4.52
+6434-TTGJP,0,0.04488828009982151,0,Low Risk,Regular engagement and loyalty benefits,10,Two year,53.7,521.0,4.49
+3831-YCPUO,0,0.04480222348586531,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,109.5,7854.9,4.48
+1139-WUOAH,0,0.04478300599213236,0,Low Risk,Regular engagement and loyalty benefits,57,Two year,53.35,3090.05,4.48
+8430-TWCBX,0,0.04453706800101201,0,Low Risk,Regular engagement and loyalty benefits,49,One year,20.7,1032.05,4.45
+0513-RBGPE,0,0.04394721922595785,0,Low Risk,Regular engagement and loyalty benefits,37,Two year,62.8,2278.75,4.39
+5016-LIPDW,0,0.043642808752622914,0,Low Risk,Regular engagement and loyalty benefits,57,One year,19.4,1061.6,4.36
+0114-IGABW,0,0.04325172762813462,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,58.25,4145.9,4.33
+1047-RNXZV,0,0.04316614653155923,0,Low Risk,Regular engagement and loyalty benefits,43,Two year,19.55,876.15,4.32
+6425-JWTDV,0,0.04264210315862781,0,Low Risk,Regular engagement and loyalty benefits,48,Two year,19.25,855.1,4.26
+2673-ZALNP,0,0.0426032792912318,0,Low Risk,Regular engagement and loyalty benefits,7,One year,19.9,173.15,4.26
+3563-SVYLG,0,0.042356149724214615,0,Low Risk,Regular engagement and loyalty benefits,68,Two year,62.65,4375.8,4.24
+2252-NKNSI,0,0.04234559578461163,0,Low Risk,Regular engagement and loyalty benefits,52,Two year,85.15,4461.85,4.23
+3546-GHEAE,0,0.04192119080758899,0,Low Risk,Regular engagement and loyalty benefits,7,Two year,19.45,165.35,4.19
+9348-ROUAI,0,0.041815251076599426,0,Low Risk,Regular engagement and loyalty benefits,59,Two year,90.3,5194.05,4.18
+6260-XLACS,0,0.0411143778596509,0,Low Risk,Regular engagement and loyalty benefits,4,One year,19.7,117.8,4.11
+0191-EQUUH,0,0.041024254019550455,0,Low Risk,Regular engagement and loyalty benefits,25,Two year,35.05,844.45,4.1
+2961-VNFKL,0,0.04079876819795267,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,25.95,1801.9,4.08
+0071-NDAFP,0,0.04073786269697874,0,Low Risk,Regular engagement and loyalty benefits,25,Two year,25.5,630.6,4.07
+8722-PRFDV,0,0.04071769522103384,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,77.55,5574.35,4.07
+2335-GSODA,0,0.04066756115549368,0,Low Risk,Regular engagement and loyalty benefits,23,Two year,40.1,857.75,4.07
+6754-LZUKA,0,0.04054186502233235,0,Low Risk,Regular engagement and loyalty benefits,61,Two year,80.9,4932.5,4.05
+0754-EEBDC,0,0.04039586566081168,0,Low Risk,Regular engagement and loyalty benefits,4,Two year,19.9,76.65,4.04
+1776-SPBWV,0,0.04012674954979886,0,Low Risk,Regular engagement and loyalty benefits,34,One year,20.1,682.1,4.01
+3227-WLKLI,0,0.03947656179757974,0,Low Risk,Regular engagement and loyalty benefits,65,Two year,91.55,5963.95,3.95
+5696-JVVQY,0,0.03910517016847792,0,Low Risk,Regular engagement and loyalty benefits,48,Two year,70.1,3238.4,3.91
+3891-NLXJB,0,0.03854182648113777,0,Low Risk,Regular engagement and loyalty benefits,37,Two year,40.55,1390.85,3.85
+5915-ANOEI,0,0.03808710372080108,0,Low Risk,Regular engagement and loyalty benefits,70,Two year,79.15,5536.5,3.81
+6349-JDHQP,0,0.0380837441462053,0,Low Risk,Regular engagement and loyalty benefits,53,Two year,19.85,1049.6,3.81
+8314-HTWVE,0,0.037736230256664324,0,Low Risk,Regular engagement and loyalty benefits,7,Two year,19.85,144.15,3.77
+0214-JHPFW,0,0.03773459549178854,0,Low Risk,Regular engagement and loyalty benefits,70,Two year,57.8,4039.3,3.77
+2088-IEBAU,0,0.03733971142460185,0,Low Risk,Regular engagement and loyalty benefits,68,Two year,88.15,6148.45,3.73
+2676-SSLTO,0,0.036985719159124415,0,Low Risk,Regular engagement and loyalty benefits,49,Two year,66.15,3199.0,3.7
+8915-NNTRC,0,0.03681204840269642,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,107.7,7919.8,3.68
+9298-WGMRW,0,0.03636167607437693,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,115.5,8312.75,3.64
+3884-UEBXB,0,0.036201960563731726,0,Low Risk,Regular engagement and loyalty benefits,67,Two year,36.15,2434.45,3.62
+9073-ZZIAY,0,0.03620144113944179,0,Low Risk,Regular engagement and loyalty benefits,62,Two year,86.1,5215.25,3.62
+0487-CRLZF,0,0.03587418598217032,0,Low Risk,Regular engagement and loyalty benefits,49,Two year,74.45,3721.9,3.59
+3978-YNKDD,0,0.035766190501370226,0,Low Risk,Regular engagement and loyalty benefits,19,Two year,20.85,467.5,3.58
+2987-BJXIK,0,0.03481186117951682,0,Low Risk,Regular engagement and loyalty benefits,70,Two year,84.7,5991.05,3.48
+1265-BCFEO,0,0.03453794295493178,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,80.45,5662.25,3.45
+2263-SFSQZ,0,0.03346105671787694,0,Low Risk,Regular engagement and loyalty benefits,51,Two year,24.95,1222.25,3.35
+5158-RIVOP,0,0.03333137977596042,0,Low Risk,Regular engagement and loyalty benefits,11,Two year,20.9,202.3,3.33
+1716-LSAMB,0,0.033035123761876395,0,Low Risk,Regular engagement and loyalty benefits,45,Two year,54.65,2553.7,3.3
+4538-WNTMJ,0,0.0329766064710204,0,Low Risk,Regular engagement and loyalty benefits,46,One year,24.95,1165.9,3.3
+3796-ENZGF,0,0.032908376331659724,0,Low Risk,Regular engagement and loyalty benefits,63,Two year,67.25,4234.15,3.29
+3705-PSNGL,1,0.032841247955899176,0,Low Risk,Regular engagement and loyalty benefits,45,One year,20.4,930.45,3.28
+8221-HVAYI,0,0.0322976136107261,0,Low Risk,Regular engagement and loyalty benefits,35,Two year,69.15,2490.15,3.23
+1722-LDZJS,0,0.031762146727242264,0,Low Risk,Regular engagement and loyalty benefits,53,One year,20.2,1068.15,3.18
+3612-YVGSJ,0,0.031608454410339874,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,24.45,1681.6,3.16
+9397-TZSHA,0,0.03145700432927748,0,Low Risk,Regular engagement and loyalty benefits,69,Two year,24.6,1678.05,3.15
+1568-LJSZU,0,0.03129243098756228,0,Low Risk,Regular engagement and loyalty benefits,68,Two year,92.2,6392.85,3.13
+5127-BZENZ,0,0.03123799791549176,0,Low Risk,Regular engagement and loyalty benefits,56,One year,65.2,3512.15,3.12
+8882-TLVRW,0,0.030977490945760786,0,Low Risk,Regular engagement and loyalty benefits,69,Two year,39.1,2779.5,3.1
+8701-DGLVH,0,0.03091198172282263,0,Low Risk,Regular engagement and loyalty benefits,51,Two year,20.45,1042.65,3.09
+0613-WUXUM,0,0.030756875433612735,0,Low Risk,Regular engagement and loyalty benefits,70,Two year,19.2,1401.4,3.08
+1657-DYMBM,0,0.030721063270347244,0,Low Risk,Regular engagement and loyalty benefits,53,Two year,19.9,1110.05,3.07
+6953-PBDIN,0,0.030654009965937465,0,Low Risk,Regular engagement and loyalty benefits,70,Two year,72.95,5265.55,3.07
+9030-QGZNL,0,0.030367156670435404,0,Low Risk,Regular engagement and loyalty benefits,8,Two year,20.85,161.65,3.04
+3724-BSCVH,0,0.029891819415223897,0,Low Risk,Regular engagement and loyalty benefits,10,One year,20.45,242.4,2.99
+2228-BZDEE,0,0.029859553019528008,0,Low Risk,Regular engagement and loyalty benefits,54,Two year,20.1,1079.45,2.99
+3745-HRPHI,0,0.029776547374712425,0,Low Risk,Regular engagement and loyalty benefits,66,Two year,54.65,3632.0,2.98
+6961-MJKBO,0,0.029519607146856038,0,Low Risk,Regular engagement and loyalty benefits,47,Two year,20.45,943.0,2.95
+1194-BHJYC,0,0.02950561156659457,0,Low Risk,Regular engagement and loyalty benefits,61,Two year,62.15,3778.85,2.95
+0307-BCOPK,0,0.029437574009895665,0,Low Risk,Regular engagement and loyalty benefits,16,One year,19.05,326.65,2.94
+1272-ILHFG,0,0.029378184726390772,0,Low Risk,Regular engagement and loyalty benefits,15,One year,19.65,332.65,2.94
+9795-SHUHB,0,0.028798531736018398,0,Low Risk,Regular engagement and loyalty benefits,66,Two year,58.2,3810.8,2.88
+5627-TVBPP,0,0.028682286224367495,0,Low Risk,Regular engagement and loyalty benefits,35,One year,20.1,644.5,2.87
+0019-GFNTW,0,0.028312364753648483,0,Low Risk,Regular engagement and loyalty benefits,56,Two year,45.05,2560.1,2.83
+5176-OLSKT,0,0.028291649714379773,0,Low Risk,Regular engagement and loyalty benefits,66,Two year,66.9,4370.25,2.83
+9286-BHDQG,0,0.027742126560943187,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,45.25,3139.8,2.77
+3460-TJBWI,0,0.027712117768269255,0,Low Risk,Regular engagement and loyalty benefits,24,Two year,24.2,609.05,2.77
+2696-RZVZW,0,0.027707707172226946,0,Low Risk,Regular engagement and loyalty benefits,68,Two year,25.05,1629.2,2.77
+0916-KNFAJ,0,0.027635902897881218,0,Low Risk,Regular engagement and loyalty benefits,61,Two year,69.9,4226.7,2.76
+3889-VWBID,0,0.027340829913550812,0,Low Risk,Regular engagement and loyalty benefits,68,Two year,82.85,5776.45,2.73
+3556-BVQGL,0,0.027267498282185172,0,Low Risk,Regular engagement and loyalty benefits,20,One year,20.0,416.45,2.73
+2068-WWXQZ,0,0.02721739145648134,0,Low Risk,Regular engagement and loyalty benefits,46,Two year,20.05,902.0,2.72
+5605-XNWEN,0,0.027007106067153907,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,25.0,1802.55,2.7
+2150-OEGBV,0,0.026952836859241266,0,Low Risk,Regular engagement and loyalty benefits,27,One year,20.1,562.6,2.7
+1345-ZUKID,0,0.026695467183454166,0,Low Risk,Regular engagement and loyalty benefits,14,One year,19.35,324.8,2.67
+6698-OXETB,0,0.026566089882339442,0,Low Risk,Regular engagement and loyalty benefits,11,Two year,20.4,231.45,2.66
+3649-JPUGY,0,0.02624549412649443,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,88.6,6201.95,2.62
+0383-CLDDA,0,0.02622906856101283,0,Low Risk,Regular engagement and loyalty benefits,69,Two year,85.35,5897.4,2.62
+5057-RKGLH,0,0.026162381757370685,0,Low Risk,Regular engagement and loyalty benefits,9,Two year,20.35,191.1,2.62
+6000-UKLWI,0,0.026024766647757876,0,Low Risk,Regular engagement and loyalty benefits,41,Two year,20.15,802.35,2.6
+4648-YPBTM,0,0.026022996298749407,0,Low Risk,Regular engagement and loyalty benefits,53,Two year,73.9,3958.25,2.6
+0436-TWFFZ,0,0.025702902293866473,0,Low Risk,Regular engagement and loyalty benefits,67,Two year,85.25,5714.2,2.57
+4701-LKOZD,0,0.02533276157234949,0,Low Risk,Regular engagement and loyalty benefits,70,Two year,89.75,6367.2,2.53
+1459-QNFQT,0,0.025113056706517277,0,Low Risk,Regular engagement and loyalty benefits,70,Two year,59.5,4144.8,2.51
+1293-HHSHJ,0,0.02486353831112698,0,Low Risk,Regular engagement and loyalty benefits,35,One year,21.1,741.0,2.49
+0556-FJEGU,0,0.024666219347002943,0,Low Risk,Regular engagement and loyalty benefits,58,Two year,70.1,4048.95,2.47
+0040-HALCW,0,0.024515359221935297,0,Low Risk,Regular engagement and loyalty benefits,54,Two year,20.4,1090.6,2.45
+7975-JMZNT,0,0.024505515891739434,0,Low Risk,Regular engagement and loyalty benefits,66,Two year,91.7,6075.9,2.45
+5821-MMEIL,0,0.024037232566927323,0,Low Risk,Regular engagement and loyalty benefits,57,Two year,19.9,1115.6,2.4
+8957-THMOA,0,0.024020529564641818,0,Low Risk,Regular engagement and loyalty benefits,50,Two year,20.15,970.85,2.4
+3594-BDSOA,0,0.024006316959873583,0,Low Risk,Regular engagement and loyalty benefits,24,One year,20.4,482.8,2.4
+4707-MAXGU,0,0.02390067931106002,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,25.85,1872.2,2.39
+2509-TFPJU,0,0.02390067931106002,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,25.75,1864.2,2.39
+5924-SNGKP,0,0.02378607288901062,0,Low Risk,Regular engagement and loyalty benefits,41,One year,20.25,865.0,2.38
+9127-FHJBZ,0,0.023767210824836377,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,114.0,8093.15,2.38
+4641-FROLU,0,0.02356772729261466,0,Low Risk,Regular engagement and loyalty benefits,30,Two year,19.3,602.9,2.36
+9646-NMHXE,0,0.02334389223395533,0,Low Risk,Regular engagement and loyalty benefits,47,Two year,19.65,973.1,2.33
+7473-ZBDSN,0,0.023233676572133682,0,Low Risk,Regular engagement and loyalty benefits,14,Two year,18.8,255.55,2.32
+4475-NVTLU,0,0.023006313826011572,0,Low Risk,Regular engagement and loyalty benefits,45,Two year,19.2,903.7,2.3
+9548-LERKT,0,0.022857890098269787,0,Low Risk,Regular engagement and loyalty benefits,24,Two year,19.75,483.15,2.29
+5699-BNCAS,0,0.02285560585158326,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,24.65,1766.75,2.29
+1429-UYJSV,0,0.02283089142349378,0,Low Risk,Regular engagement and loyalty benefits,12,One year,19.7,260.9,2.28
+2817-LVCPP,0,0.022029122238221923,0,Low Risk,Regular engagement and loyalty benefits,50,Two year,19.4,1023.95,2.2
+8922-NPKBJ,0,0.021135289848009452,0,Low Risk,Regular engagement and loyalty benefits,42,Two year,19.35,867.3,2.11
+8092-NLTGF,0,0.020764501262657033,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,24.75,1777.6,2.08
+9224-VTYID,0,0.020740381542451707,0,Low Risk,Regular engagement and loyalty benefits,47,Two year,90.5,4318.35,2.07
+1395-WSWXR,0,0.020592907590502463,0,Low Risk,Regular engagement and loyalty benefits,24,Two year,20.75,487.05,2.06
+8626-PTQGE,0,0.020335235602635726,0,Low Risk,Regular engagement and loyalty benefits,69,Two year,60.05,4176.7,2.03
+0336-KXKFK,0,0.020024898248125433,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,61.2,4390.25,2.0
+2418-TPEUN,0,0.019939206340262628,0,Low Risk,Regular engagement and loyalty benefits,56,Two year,19.8,1119.9,1.99
+9531-NSBMR,0,0.019789241464447303,0,Low Risk,Regular engagement and loyalty benefits,36,One year,19.25,679.8,1.98
+8413-YNHNV,0,0.01965703757541726,0,Low Risk,Regular engagement and loyalty benefits,69,Two year,90.65,6322.1,1.97
+8966-KZXXA,0,0.01961683795089756,0,Low Risk,Regular engagement and loyalty benefits,36,Two year,25.1,930.95,1.96
+0732-OCQOC,0,0.01936009595712441,0,Low Risk,Regular engagement and loyalty benefits,52,Two year,25.05,1270.25,1.94
+2650-GYRYL,0,0.019332295847860913,0,Low Risk,Regular engagement and loyalty benefits,33,One year,19.45,600.25,1.93
+7722-VJRQD,0,0.019024785741010495,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,60.95,4549.05,1.9
+7579-KKLOE,0,0.018947730142474455,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,91.25,6589.6,1.89
+3635-QQRQD,0,0.0183855578425703,0,Low Risk,Regular engagement and loyalty benefits,62,Two year,20.05,1201.65,1.84
+5774-QPLTF,0,0.018384165429284595,0,Low Risk,Regular engagement and loyalty benefits,50,One year,20.35,938.95,1.84
+4077-HWUYD,0,0.01836224239871885,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,87.55,6463.15,1.84
+3769-MHZNV,0,0.018327392856633856,0,Low Risk,Regular engagement and loyalty benefits,33,Two year,20.1,670.35,1.83
+7018-FPXHH,0,0.01822158825987423,0,Low Risk,Regular engagement and loyalty benefits,56,Two year,59.8,3457.45,1.82
+9953-ZMKSM,0,0.01809413300388602,0,Low Risk,Regular engagement and loyalty benefits,63,Two year,25.25,1559.3,1.81
+1270-XKUCC,0,0.017995313821880906,0,Low Risk,Regular engagement and loyalty benefits,30,Two year,19.7,599.25,1.8
+1265-ZFOSD,0,0.017915578041307594,0,Low Risk,Regular engagement and loyalty benefits,64,Two year,81.3,5129.3,1.79
+6248-TKCQV,0,0.017614277705431104,0,Low Risk,Regular engagement and loyalty benefits,70,Two year,80.6,5460.2,1.76
+0825-CPPQH,0,0.017534823925952334,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,19.1,1372.45,1.75
+0281-CNTZX,0,0.017504557922329328,0,Low Risk,Regular engagement and loyalty benefits,63,Two year,19.95,1234.8,1.75
+5968-HYJRZ,0,0.017396640843973826,0,Low Risk,Regular engagement and loyalty benefits,47,Two year,24.55,1160.45,1.74
+9823-EALYC,0,0.01733893703170839,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,80.85,5727.45,1.73
+5743-KHMNA,0,0.017009132178613603,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,25.55,1898.1,1.7
+9337-SRRNI,0,0.01699620369636664,0,Low Risk,Regular engagement and loyalty benefits,66,Two year,25.3,1673.8,1.7
+6695-AMZUF,0,0.016878309015786675,0,Low Risk,Regular engagement and loyalty benefits,70,Two year,86.45,5950.2,1.69
+1069-QJOEE,0,0.01687085644274587,0,Low Risk,Regular engagement and loyalty benefits,25,One year,19.9,505.45,1.69
+6164-HAQTX,0,0.01678431682562935,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,53.95,3888.65,1.68
+6345-FZOQH,0,0.01659786770817765,0,Low Risk,Regular engagement and loyalty benefits,69,Two year,19.9,1363.45,1.66
+7244-KXYZN,0,0.016466515096063963,0,Low Risk,Regular engagement and loyalty benefits,24,One year,20.45,527.35,1.65
+5583-EJXRD,0,0.0163832390211639,0,Low Risk,Regular engagement and loyalty benefits,44,Two year,54.05,2375.2,1.64
+0123-CRBRT,0,0.016351849027632107,0,Low Risk,Regular engagement and loyalty benefits,61,Two year,88.1,5526.75,1.64
+2535-PBCGC,0,0.016292965428805702,0,Low Risk,Regular engagement and loyalty benefits,70,Two year,64.55,4504.9,1.63
+4709-LKHYG,0,0.01620615212760034,0,Low Risk,Regular engagement and loyalty benefits,29,One year,20.0,540.05,1.62
+5006-MXVRN,0,0.016155706830467104,0,Low Risk,Regular engagement and loyalty benefits,39,Two year,20.7,762.45,1.62
+8194-PEEBY,0,0.016122346991897168,0,Low Risk,Regular engagement and loyalty benefits,24,One year,19.9,533.5,1.61
+9372-TXXPS,0,0.016073870685850773,0,Low Risk,Regular engagement and loyalty benefits,60,Two year,59.85,3483.45,1.61
+2718-YSKCS,0,0.01599249576024171,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,19.6,1387.45,1.6
+0301-KOBTQ,0,0.015921417345070566,0,Low Risk,Regular engagement and loyalty benefits,32,Two year,20.05,614.45,1.59
+5495-GPSRW,0,0.015829166137417843,0,Low Risk,Regular engagement and loyalty benefits,20,Two year,19.7,419.4,1.58
+7306-YDSOI,0,0.015625593385795496,0,Low Risk,Regular engagement and loyalty benefits,69,Two year,59.75,4069.9,1.56
+0969-RGKCU,0,0.015611390071445413,0,Low Risk,Regular engagement and loyalty benefits,37,One year,19.8,677.05,1.56
+1757-TCATG,0,0.015452444179997044,0,Low Risk,Regular engagement and loyalty benefits,35,One year,20.05,746.75,1.55
+4378-BZYFP,0,0.015374452497983644,0,Low Risk,Regular engagement and loyalty benefits,17,One year,20.5,365.8,1.54
+0604-THJFP,0,0.014940610924788027,0,Low Risk,Regular engagement and loyalty benefits,59,Two year,75.95,4542.35,1.49
+6695-FRVEC,0,0.014936295008675266,0,Low Risk,Regular engagement and loyalty benefits,67,Two year,60.4,3953.7,1.49
+9227-YBAXE,0,0.014878378896957227,0,Low Risk,Regular engagement and loyalty benefits,65,Two year,82.5,5215.1,1.49
+6139-ZZRBQ,0,0.014761762607372426,0,Low Risk,Regular engagement and loyalty benefits,64,Two year,20.05,1198.05,1.48
+4979-HPRFL,0,0.01451510408375718,0,Low Risk,Regular engagement and loyalty benefits,56,Two year,24.15,1402.25,1.45
+3620-EHIMZ,0,0.0132569035345117,0,Low Risk,Regular engagement and loyalty benefits,52,Two year,19.35,1031.7,1.33
+4376-KFVRS,0,0.013250739141331576,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,114.05,8468.2,1.33
+5847-MXBEO,0,0.01320221425785051,0,Low Risk,Regular engagement and loyalty benefits,22,One year,20.3,475.1,1.32
+4817-KEQSP,0,0.012731579836201075,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,19.85,1326.35,1.27
+0016-QLJIS,0,0.012714479833323458,0,Low Risk,Regular engagement and loyalty benefits,65,Two year,90.45,5957.9,1.27
+1926-QUZNN,0,0.012694117765928851,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,25.25,1841.2,1.27
+3778-FOAQW,0,0.012242191064433597,0,Low Risk,Regular engagement and loyalty benefits,24,One year,20.15,456.85,1.22
+5067-WJEUN,0,0.012004061226412505,0,Low Risk,Regular engagement and loyalty benefits,67,Two year,54.2,3838.2,1.2
+5148-ORICT,0,0.011758854329621742,0,Low Risk,Regular engagement and loyalty benefits,64,Two year,74.35,4759.55,1.18
+9453-PATOS,0,0.011438067370939265,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,85.1,6155.4,1.14
+6848-HJTXY,0,0.011422252108191205,0,Low Risk,Regular engagement and loyalty benefits,64,Two year,19.45,1208.6,1.14
+3996-ZNWYK,0,0.011411067032636089,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,19.8,1388.45,1.14
+2208-NKVVH,0,0.011306190830096112,0,Low Risk,Regular engagement and loyalty benefits,43,Two year,24.25,1077.95,1.13
+7609-NRNCA,0,0.011126681209659062,0,Low Risk,Regular engagement and loyalty benefits,17,One year,19.55,280.85,1.11
+6997-UVGOX,0,0.010738775123125049,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,85.45,6029.9,1.07
+4092-OFQZS,0,0.01063088495032039,0,Low Risk,Regular engagement and loyalty benefits,20,One year,20.65,417.5,1.06
+9297-EONCV,0,0.010614895080209838,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,91.35,6697.2,1.06
+8181-YHCMF,0,0.010553112752799883,0,Low Risk,Regular engagement and loyalty benefits,68,Two year,60.3,4109.0,1.06
+0902-RFHOF,0,0.010515458491588485,0,Low Risk,Regular engagement and loyalty benefits,38,One year,20.1,730.1,1.05
+9602-WCXPI,0,0.010402729526051164,0,Low Risk,Regular engagement and loyalty benefits,50,One year,20.15,989.05,1.04
+2122-SZZZD,0,0.010241261753704156,0,Low Risk,Regular engagement and loyalty benefits,44,One year,19.5,835.5,1.02
+6248-BSHKG,0,0.009822994879481406,0,Low Risk,Regular engagement and loyalty benefits,61,One year,20.4,1226.45,0.98
+5214-CHIWJ,0,0.009624080033986081,0,Low Risk,Regular engagement and loyalty benefits,27,One year,20.3,595.05,0.96
+3125-RAHBV,0,0.009589907096997554,0,Low Risk,Regular engagement and loyalty benefits,22,One year,20.3,467.15,0.96
+1328-EUZHC,0,0.009501212997339888,0,Low Risk,Regular engagement and loyalty benefits,18,Two year,20.1,370.5,0.95
+0506-YLVKJ,0,0.009442590705403759,0,Low Risk,Regular engagement and loyalty benefits,46,Two year,20.2,917.45,0.94
+5458-CQJTA,1,0.009365419294387223,0,Low Risk,Regular engagement and loyalty benefits,65,Two year,74.8,4820.15,0.94
+7606-BPHHN,0,0.009332481461544646,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,19.8,1468.75,0.93
+2829-HYVZP,0,0.009289136986290357,0,Low Risk,Regular engagement and loyalty benefits,29,One year,19.8,572.2,0.93
+8028-PNXHQ,0,0.009154563739239178,0,Low Risk,Regular engagement and loyalty benefits,62,Two year,24.25,1424.6,0.92
+0909-SELIE,0,0.009112330223980886,0,Low Risk,Regular engagement and loyalty benefits,61,Two year,80.8,4860.85,0.91
+1862-QRWPE,0,0.008955769169276909,0,Low Risk,Regular engagement and loyalty benefits,48,Two year,20.65,1057.0,0.9
+8727-JQFHV,0,0.00887392624356678,0,Low Risk,Regular engagement and loyalty benefits,57,Two year,20.75,1123.15,0.89
+2984-RGEYA,0,0.008837759595826505,0,Low Risk,Regular engagement and loyalty benefits,69,Two year,19.75,1375.4,0.88
+8711-LOBKY,0,0.008729580687109655,0,Low Risk,Regular engagement and loyalty benefits,59,Two year,19.85,1188.25,0.87
+1227-UDMZR,0,0.008703825831159723,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,91.15,6637.9,0.87
+4086-WITJG,0,0.00866005285494903,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,19.7,1301.1,0.87
+4779-ZGICK,0,0.008356024937351846,0,Low Risk,Regular engagement and loyalty benefits,48,Two year,23.55,1173.35,0.84
+8404-VIOMB,0,0.008247085197152264,0,Low Risk,Regular engagement and loyalty benefits,66,Two year,62.5,4136.4,0.82
+4742-TXUEX,0,0.008124660871748901,0,Low Risk,Regular engagement and loyalty benefits,47,Two year,19.3,890.5,0.81
+4967-WPNCF,0,0.00809950545138312,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,63.7,4464.8,0.81
+8173-RXAYP,0,0.0077526184628836725,0,Low Risk,Regular engagement and loyalty benefits,24,Two year,19.7,452.55,0.78
+2725-TTRIQ,0,0.007641085383572907,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,84.2,5986.55,0.76
+7463-IFMQU,0,0.00750503733932796,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,20.05,1423.65,0.75
+6857-TKDJV,0,0.0073031788105467075,0,Low Risk,Regular engagement and loyalty benefits,67,Two year,24.65,1620.45,0.73
+7115-IRDHS,0,0.0071330984935805385,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,24.65,1830.05,0.71
+8218-FFJDS,0,0.006819007270318342,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,86.4,6058.95,0.68
+0397-ZXWQF,0,0.006783238015497451,0,Low Risk,Regular engagement and loyalty benefits,67,Two year,20.5,1430.95,0.68
+0603-TPMIB,0,0.006285796052862492,0,Low Risk,Regular engagement and loyalty benefits,59,Two year,25.45,1534.05,0.63
+7601-GNDYK,0,0.006212152172460603,0,Low Risk,Regular engagement and loyalty benefits,35,Two year,19.6,686.95,0.62
+0936-NQLJU,0,0.006011075267208368,0,Low Risk,Regular engagement and loyalty benefits,41,Two year,20.65,875.55,0.6
+1166-PQLGG,0,0.005810344260831636,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,19.55,1463.45,0.58
+3400-ESFUW,1,0.00578314589740685,0,Low Risk,Regular engagement and loyalty benefits,55,Two year,57.55,3046.4,0.58
+6060-QBMGV,0,0.005780612685805503,0,Low Risk,Regular engagement and loyalty benefits,70,Two year,19.85,1433.8,0.58
+7711-GQBZC,0,0.005767306175646635,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,24.7,1810.55,0.58
+6823-SIDFQ,0,0.0057661248343734975,0,Low Risk,Regular engagement and loyalty benefits,28,One year,18.25,534.7,0.58
+9975-GPKZU,0,0.005540410556441857,0,Low Risk,Regular engagement and loyalty benefits,46,Two year,19.75,856.5,0.55
+4785-FCIFB,0,0.005281054203511868,0,Low Risk,Regular engagement and loyalty benefits,61,Two year,24.4,1417.9,0.53
+9624-EGDEQ,0,0.005163435228924821,0,Low Risk,Regular engagement and loyalty benefits,37,Two year,19.8,813.3,0.52
+7695-PKLCZ,0,0.004255057672239119,0,Low Risk,Regular engagement and loyalty benefits,68,Two year,20.5,1424.9,0.43
+7205-BAIAD,0,0.003995303007754035,0,Low Risk,Regular engagement and loyalty benefits,40,Two year,20.6,827.3,0.4
+6285-FTQBF,0,0.0035078881479403824,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,25.55,1867.7,0.35
+4589-IUAJB,0,0.0031231738839569245,0,Low Risk,Regular engagement and loyalty benefits,70,Two year,24.25,1724.15,0.31
+5980-BDHPY,0,0.0030416329036080723,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,87.1,6230.1,0.3
+4231-LZUYM,0,0.002889822819315229,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,25.65,1887.0,0.29
+1223-UNPKS,0,0.002496873060453467,0,Low Risk,Regular engagement and loyalty benefits,20,Two year,20.05,400.0,0.25
+7969-FFOWG,0,0.0023524407756881993,0,Low Risk,Regular engagement and loyalty benefits,65,Two year,19.9,1292.6,0.24
+9153-BTBVV,0,0.0020658004729465136,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,25.0,1753.0,0.21
+0480-KYJVA,0,0.0019946471268879034,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,24.25,1784.5,0.2
+4973-MGTON,0,0.0018946228624140593,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,84.4,5969.3,0.19
+5360-XGYAZ,0,0.0017746492893969438,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,65.65,4664.5,0.18
+8224-KDLKN,0,0.001618304210481848,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,25.0,1738.9,0.16
+7684-XSZIY,0,0.001618304210481848,0,Low Risk,Regular engagement and loyalty benefits,72,Two year,24.3,1643.25,0.16
+9251-AWQGT,0,0.0013679067360225139,0,Low Risk,Regular engagement and loyalty benefits,48,Two year,20.0,935.9,0.14
+6980-IMXXE,0,0.0013592721125932359,0,Low Risk,Regular engagement and loyalty benefits,69,Two year,20.2,1412.65,0.14
+7673-BQGKU,0,0.0013592721125932359,0,Low Risk,Regular engagement and loyalty benefits,69,Two year,20.15,1337.5,0.14
+5970-GHJAW,0,0.0011407750255096087,0,Low Risk,Regular engagement and loyalty benefits,46,Two year,19.95,862.4,0.11
+1052-QJIBV,0,0.00016105759856491008,0,Low Risk,Regular engagement and loyalty benefits,71,Two year,19.9,1397.3,0.02
